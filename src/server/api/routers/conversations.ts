@@ -24,7 +24,7 @@ export const convRouter = createTRPCRouter({
       let derailPoint = "";
       let commBefore = "";
       await fs
-        .readFile(`app/public/corpus/conversations.json`, "utf8")
+        .readFile(`app/public/Corpus/conversations.json`, "utf8")
         .then((data) => {
           let conversations = JSON.parse(data);
           conversations = conversations["ROOT" + input.convNumber];
@@ -60,7 +60,7 @@ export const convRouter = createTRPCRouter({
       let image = "";
       let role = "";
       await fs
-        .readFile(`app/public/corpus/speakers.json`, "utf8")
+        .readFile(`app/public/Corpus/speakers.json`, "utf8")
         .then((data) => {
           const conversations = JSON.parse(data)[input.speaker];
           image = conversations.meta.avatar;
@@ -78,7 +78,7 @@ export const convRouter = createTRPCRouter({
     .query(async ({ input }) => {
       let output;
       await fs
-        .readFile(`app/public/corpus/utterances.jsonl`, "utf8")
+        .readFile(`app/public/Corpus/utterances.jsonl`, "utf8")
         .then((data) => {
           const parsed = JSONL.parse<any>(data);
           // const stringified = JSONL.stringify(parsed);
@@ -100,7 +100,7 @@ export const convRouter = createTRPCRouter({
     .mutation(async ({ input }) => {
       try {
         const data = await fs.readFile(
-          "app/public/corpus/conversations.json",
+          "app/public/Corpus/conversations.json",
           "utf8"
         );
         const json = JSON.parse(data);
@@ -113,7 +113,7 @@ export const convRouter = createTRPCRouter({
             ) + " ";
 
           await fs.writeFile(
-            "app/public/corpus/conversations.json",
+            "app/public/Corpus/conversations.json",
             JSON.stringify(json, null, 2),
             "utf8"
           );
@@ -132,7 +132,7 @@ export const convRouter = createTRPCRouter({
     .mutation(async ({ input }) => {
       try {
         const data = await fs.readFile(
-          "app/public/corpus/conversations.json",
+          "app/public/Corpus/conversations.json",
           "utf8"
         );
         const json = JSON.parse(data);
@@ -177,7 +177,7 @@ export const convRouter = createTRPCRouter({
           console.log(parseInt(derailNum) - parseInt(firstPrediction));
 
           await fs.writeFile(
-            "app/public/corpus/conversations.json",
+            "app/public/Corpus/conversations.json",
             JSON.stringify(json, null, 2),
             "utf8"
           );
@@ -220,7 +220,7 @@ export const convRouter = createTRPCRouter({
     let totalReallyCivil = "";
     let totalReallyHeated = "";
 
-    await fs.readFile("app/public/corpus/corpus.json", "utf8").then((data) => {
+    await fs.readFile("app/public/Corpus/corpus.json", "utf8").then((data) => {
       const conversations = JSON.parse(data);
       utterances = conversations.utterances;
       converations = conversations.conversations;
