@@ -1,0 +1,5826 @@
+{
+  "ROOT0": {
+    "meta": {
+      "title": "Extreme jank on iOS/Android the first time any kind of animation or transition runs (release build) - skia shader compilation",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/flutter/flutter/issues/61450",
+      "author": "acoutts",
+      "comments": 44,
+      "repository": "flutter/flutter",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM0_24"
+    },
+    "vectors": [],
+    "comment": " "
+  },
+  "ROOT1": {
+    "meta": {
+      "title": "Test summary logged using println",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/gatling/gatling/issues/3571",
+      "author": "adamdougal",
+      "comments": 13,
+      "repository": "gatling/gatling",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM1_3"
+    },
+    "vectors": []
+  },
+  "ROOT2": {
+    "meta": {
+      "title": "Expand diffs in either direction",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/refined-github/refined-github/issues/1288",
+      "author": "aengelberg",
+      "comments": 6,
+      "repository": "refined-github/refined-github",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT3": {
+    "meta": {
+      "title": "navbar dropdown not working ",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/twbs/bootstrap/issues/23818",
+      "author": "ahkui",
+      "comments": 4,
+      "repository": "twbs/bootstrap",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT4": {
+    "meta": {
+      "title": "Change Detection is not working with asynchronous route changes",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/angular/angular/issues/24294",
+      "author": "akopchinskiy",
+      "comments": 9,
+      "repository": "angular/angular",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM4_3"
+    },
+    "vectors": []
+  },
+  "ROOT5": {
+    "meta": {
+      "title": "consider separating URI fragment before passing to TextDocumentContentProvider.provideTextDocumentContent",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/vscode/issues/87332",
+      "author": "akosyakov",
+      "comments": 7,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM5_5"
+    },
+    "vectors": []
+  },
+  "ROOT6": {
+    "meta": {
+      "title": "Azure Cloud Shell is readded to the profiles.json file after I remove it and restart terminal. ",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/terminal/issues/3231",
+      "author": "Alacritous",
+      "comments": 11,
+      "repository": "microsoft/terminal",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM6_5"
+    },
+    "vectors": []
+  },
+  "ROOT7": {
+    "meta": {
+      "title": "Invalid formatting of `#If` directive in VB",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/dotnet/roslyn/issues/50117",
+      "author": "AlekseyTs",
+      "comments": 3,
+      "repository": "dotnet/roslyn",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT8": {
+    "meta": {
+      "title": "Comprehensive, Native Windows Support",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/google/leveldb/issues/519",
+      "author": "Alexhuszagh",
+      "comments": 27,
+      "repository": "google/leveldb",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM8_13"
+    },
+    "vectors": []
+  },
+  "ROOT9": {
+    "meta": {
+      "title": "Why does WinAppDriver.exe require developer mode?",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/WinAppDriver/issues/165",
+      "author": "amervitz",
+      "comments": 13,
+      "repository": "microsoft/WinAppDriver",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM9_6"
+    },
+    "vectors": []
+  },
+  "ROOT10": {
+    "meta": {
+      "title": "Disable Origin Policy CORS in Flutter web",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/flutter/flutter/issues/46904",
+      "author": "amorenew",
+      "comments": 50,
+      "repository": "flutter/flutter",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM10_5"
+    },
+    "vectors": []
+  },
+  "ROOT11": {
+    "meta": {
+      "title": "cmd/test2json: bogus `Elapsed` field computed when test times out",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/golang/go/issues/27568",
+      "author": "andreimatei",
+      "comments": 3,
+      "repository": "golang/go",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT12": {
+    "meta": {
+      "title": "[Feature Request] Print project directory when diagnostics enabled",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/microsoft/TypeScript/issues/32496",
+      "author": "AnyhowStep",
+      "comments": 3,
+      "repository": "microsoft/TypeScript",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT13": {
+    "meta": {
+      "title": "deps: add Yarn 1.22.5",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/nodejs/node/pull/37277",
+      "author": "arcanis",
+      "comments": 66,
+      "repository": "nodejs/node",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM13_3"
+    },
+    "vectors": []
+  },
+  "ROOT14": {
+    "meta": {
+      "title": "fix or document proper configuration for specifying default output order",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/apple/cups/issues/5315",
+      "author": "archenemies",
+      "comments": 5,
+      "repository": "apple/cups",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM14_2"
+    },
+    "vectors": []
+  },
+  "ROOT15": {
+    "meta": {
+      "title": "Santa hat removal",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87389",
+      "author": "Asgoret",
+      "comments": 3,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM15_0"
+    },
+    "vectors": []
+  },
+  "ROOT16": {
+    "meta": {
+      "title": "IPython doesn't follow the XDG base directory specification",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/ipython/ipython/issues/12431",
+      "author": "Avamander",
+      "comments": 4,
+      "repository": "ipython/ipython",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT16"
+    },
+    "vectors": []
+  },
+  "ROOT17": {
+    "meta": {
+      "title": "http: explain the unused argument in IncomingMessage._read",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/nodejs/node/pull/37275",
+      "author": "Ayase-252",
+      "comments": 17,
+      "repository": "nodejs/node",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT17"
+    },
+    "vectors": []
+  },
+  "ROOT18": {
+    "meta": {
+      "title": "Terminal v1.5.10271.0 crashes on startup due to settings.json load bug",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/8986",
+      "author": "BasKiers",
+      "comments": 7,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT19": {
+    "meta": {
+      "title": "Don't hyphenate custom CSS properties for ReactDOMServer",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/facebook/react/pull/16167",
+      "author": "bedakb",
+      "comments": 4,
+      "repository": "facebook/react",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT19"
+    },
+    "vectors": []
+  },
+  "ROOT20": {
+    "meta": {
+      "title": "Curiosity: Why are nested items in BS4 have full class names again?",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/twbs/bootstrap/issues/23815",
+      "author": "bertoost",
+      "comments": 4,
+      "repository": "twbs/bootstrap",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM20_1"
+    },
+    "vectors": []
+  },
+  "ROOT21": {
+    "meta": {
+      "title": "Microsoft.AspNetCore.Mvc is getting depreciated but what would be workaround?",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/dotnet/aspnetcore/issues/48920",
+      "author": "bhrugen",
+      "comments": 6,
+      "repository": "dotnet/aspnetcore",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT22": {
+    "meta": {
+      "title": "v14 --fix rewrites `a 'b' c` to 'a \\'b\\' c' instead of \"a 'b' c\"",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/standard/standard/issues/1380",
+      "author": "billiegoose",
+      "comments": 8,
+      "repository": "standard/standard",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT23": {
+    "meta": {
+      "title": "proposal: path/filepath: add Resolve, replacing EvalSymlinks",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/golang/go/issues/37113",
+      "author": "bk2204",
+      "comments": 78,
+      "repository": "golang/go",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM23_3"
+    },
+    "vectors": []
+  },
+  "ROOT24": {
+    "meta": {
+      "title": "IPython 5.10 doesn't work on Python 3.8",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/ipython/ipython/issues/12432",
+      "author": "bmw",
+      "comments": 4,
+      "repository": "ipython/ipython",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM24_0"
+    },
+    "vectors": []
+  },
+  "ROOT25": {
+    "meta": {
+      "title": "Rename Node-API to something less confusing/misleading",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/nodejs/node/issues/38573",
+      "author": "bnb",
+      "comments": 4,
+      "repository": "nodejs/node",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT26": {
+    "meta": {
+      "title": "Json support to set Firebase Remote Configs defaults",
+      "locked": true,
+      "state": "open",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/firebase/firebase-android-sdk/issues/1818",
+      "author": "bolds07",
+      "comments": 10,
+      "repository": "firebase/firebase-android-sdk",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM26_6"
+    },
+    "vectors": []
+  },
+  "ROOT27": {
+    "meta": {
+      "title": "Active owner badly needed",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/Semantic-Org/Semantic-UI/issues/6418",
+      "author": "brodybits",
+      "comments": 21,
+      "repository": "Semantic-Org/Semantic-UI",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT27"
+    },
+    "vectors": []
+  },
+  "ROOT28": {
+    "meta": {
+      "title": "Suppress firing events at load time if an error has already occurred",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/MinecraftForge/MinecraftForge/pull/4801",
+      "author": "bs2609",
+      "comments": 7,
+      "repository": "MinecraftForge/MinecraftForge",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT29": {
+    "meta": {
+      "title": "Show a warning with Learn More link if SSH is in use without a working ssh-agent",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode-docker/pull/1622",
+      "author": "bwateratmsft",
+      "comments": 8,
+      "repository": "microsoft/vscode-docker",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT29"
+    },
+    "vectors": []
+  },
+  "ROOT30": {
+    "meta": {
+      "title": "Terminal shows an empty window and then crashes",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/terminal/issues/1364",
+      "author": "Byloth",
+      "comments": 56,
+      "repository": "microsoft/terminal",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM30_10"
+    },
+    "vectors": []
+  },
+  "ROOT31": {
+    "meta": {
+      "title": "storage OOM not proper handled by gradle ",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/gradle/gradle/issues/5911",
+      "author": "c3ph3us",
+      "comments": 3,
+      "repository": "gradle/gradle",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT31"
+    },
+    "vectors": []
+  },
+  "ROOT32": {
+    "meta": {
+      "title": "Have saw many build/run environment issues, collect them here.",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/485",
+      "author": "CanoeFZH",
+      "comments": 13,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT33": {
+    "meta": {
+      "title": "Consider JSX-like syntax inside dart code",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/flutter/flutter/issues/11609",
+      "author": "cbazza",
+      "comments": 239,
+      "repository": "flutter/flutter",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM33_6"
+    },
+    "vectors": []
+  },
+  "ROOT34": {
+    "meta": {
+      "title": "你好，你的语言版本上违反了中国法律",
+      "locked": true,
+      "state": "open",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/Semantic-Org/Semantic-UI/issues/6889",
+      "author": "ceet2016",
+      "comments": 8,
+      "repository": "Semantic-Org/Semantic-UI",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM34_7"
+    },
+    "vectors": []
+  },
+  "ROOT35": {
+    "meta": {
+      "title": "Object spread can lead to unknown properties added [Regression v3.1.6]",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/TypeScript/issues/32495",
+      "author": "Cellule",
+      "comments": 13,
+      "repository": "microsoft/TypeScript",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT35"
+    },
+    "vectors": []
+  },
+  "ROOT36": {
+    "meta": {
+      "title": "FR: Firebase Analytics Server Side",
+      "locked": true,
+      "state": "open",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/firebase/firebase-admin-java/issues/137",
+      "author": "cemo",
+      "comments": 42,
+      "repository": "firebase/firebase-admin-java",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT37": {
+    "meta": {
+      "title": "Buttons pressing leads to editor crash if pressed while other app window is focused (DisplayServer regression)",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/godotengine/godot/issues/44920",
+      "author": "Chaosus",
+      "comments": 7,
+      "repository": "godotengine/godot",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT38": {
+    "meta": {
+      "title": "Lightmap Baking hangs at \"Plotting Meshes\" then fills the RAM up until Godot crashes.",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/godotengine/godot/issues/19604",
+      "author": "CheesecakeCG",
+      "comments": 3,
+      "repository": "godotengine/godot",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT39": {
+    "meta": {
+      "title": "[Prototype] [Do NOT Merge] Binary Metal Archive Prototype for iOS/Mac.",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/flutter/engine/pull/23914",
+      "author": "chinmaygarde",
+      "comments": 57,
+      "repository": "flutter/engine",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT39"
+    },
+    "vectors": []
+  },
+  "ROOT40": {
+    "meta": {
+      "title": "depends_on cannot be used in a module",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/hashicorp/terraform/issues/10462",
+      "author": "chrisrlong",
+      "comments": 136,
+      "repository": "hashicorp/terraform",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT41": {
+    "meta": {
+      "title": "encrypt is decrypting wrong",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/travis-ci/travis-ci/issues/10424",
+      "author": "christhomas",
+      "comments": 3,
+      "repository": "travis-ci/travis-ci",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM41_1"
+    },
+    "vectors": []
+  },
+  "ROOT42": {
+    "meta": {
+      "title": "API Access to \"Open Editors\"",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/vscode/issues/15178",
+      "author": "ChuckJonas",
+      "comments": 97,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM42_28"
+    },
+    "vectors": []
+  },
+  "ROOT43": {
+    "meta": {
+      "title": "Inconsistent type styling in Godot editor",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/godotengine/godot/issues/44922",
+      "author": "CitrusWire",
+      "comments": 18,
+      "repository": "godotengine/godot",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM43_0"
+    },
+    "vectors": []
+  },
+  "ROOT44": {
+    "meta": {
+      "title": "[eslint-plugin-react-hooks] \"Rules of hooks\" considers any function beginning with \"use\" to be a React Hook",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/facebook/react/issues/15227",
+      "author": "cjcenizal",
+      "comments": 11,
+      "repository": "facebook/react",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM44_9"
+    },
+    "vectors": []
+  },
+  "ROOT45": {
+    "meta": {
+      "title": "[WARNING]: Unable to parse /etc/ansible/hosts as an inventory source",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/ansible/ansible/issues/39779",
+      "author": "cpatte7372",
+      "comments": 7,
+      "repository": "ansible/ansible",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT46": {
+    "meta": {
+      "title": "No built application for download",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/terminal/issues/486",
+      "author": "creotiv",
+      "comments": 32,
+      "repository": "microsoft/terminal",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT46"
+    },
+    "vectors": []
+  },
+  "ROOT47": {
+    "meta": {
+      "title": "atom as an editor is too big",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/atom/atom/issues/9755",
+      "author": "crquan",
+      "comments": 20,
+      "repository": "atom/atom",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT47"
+    },
+    "vectors": []
+  },
+  "ROOT48": {
+    "meta": {
+      "title": "Proposal: Consider using  bgfx as a rendering backend?",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/godotengine/godot/issues/19602",
+      "author": "csotiriou",
+      "comments": 21,
+      "repository": "godotengine/godot",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM48_1"
+    },
+    "vectors": []
+  },
+  "ROOT49": {
+    "meta": {
+      "title": "Is there a way to have a full REPL or console for vs code Python?",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode-jupyter/issues/3469",
+      "author": "cui-colin",
+      "comments": 28,
+      "repository": "microsoft/vscode-jupyter",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT49"
+    },
+    "vectors": []
+  },
+  "ROOT50": {
+    "meta": {
+      "title": "ref-struct errors can be suppressed in VB.",
+      "locked": true,
+      "state": "open",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/dotnet/roslyn/issues/50118",
+      "author": "CyrusNajmabadi",
+      "comments": 13,
+      "repository": "dotnet/roslyn",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM50_4"
+    },
+    "vectors": []
+  },
+  "ROOT51": {
+    "meta": {
+      "title": "Feature: Allow until-loops on blocks or includes",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/ansible/ansible/issues/46203",
+      "author": "dagwieers",
+      "comments": 30,
+      "repository": "ansible/ansible",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM51_3"
+    },
+    "vectors": []
+  },
+  "ROOT52": {
+    "meta": {
+      "title": "signal higher priority update",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/facebook/react/issues/15225",
+      "author": "dakom",
+      "comments": 3,
+      "repository": "facebook/react",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM52_2"
+    },
+    "vectors": []
+  },
+  "ROOT53": {
+    "meta": {
+      "title": "Bug: functional components are not re-rendered if the provided props look the same",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/facebook/react/issues/19104",
+      "author": "danielo515",
+      "comments": 8,
+      "repository": "facebook/react",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM53_0"
+    },
+    "vectors": []
+  },
+  "ROOT54": {
+    "meta": {
+      "title": "The removal of Santa Hat on vscode insiders is very offensive and has nothing to do with religion ",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87342",
+      "author": "Danielx64",
+      "comments": 13,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM54_5"
+    },
+    "vectors": []
+  },
+  "ROOT55": {
+    "meta": {
+      "title": "Please don't remove the dark theme, because it will make it harder to read large block of code.",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87344",
+      "author": "Danielx64",
+      "comments": 6,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT55"
+    },
+    "vectors": []
+  },
+  "ROOT56": {
+    "meta": {
+      "title": "Last jedi release (0.18.0) is incompatible with ipython (7.19 and 7.18 tested); reason - column arg was deprecated, and now removed",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/ipython/ipython/issues/12740",
+      "author": "DaniilAnichin",
+      "comments": 63,
+      "repository": "ipython/ipython",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM56_28"
+    },
+    "vectors": []
+  },
+  "ROOT57": {
+    "meta": {
+      "title": "\"Unable to find source java class\" error when file modified sits within symlinked source directory",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/gradle/gradle/issues/9202",
+      "author": "DarioAhdoot",
+      "comments": 9,
+      "repository": "gradle/gradle",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT57"
+    },
+    "vectors": []
+  },
+  "ROOT58": {
+    "meta": {
+      "title": "Style - future chaining",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/dart-lang/sdk/issues/10259",
+      "author": "DartBot",
+      "comments": 4,
+      "repository": "dart-lang/sdk",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT59": {
+    "meta": {
+      "title": "Dart VM on FreeBSD",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/dart-lang/sdk/issues/10260",
+      "author": "DartBot",
+      "comments": 73,
+      "repository": "dart-lang/sdk",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM59_25"
+    },
+    "vectors": []
+  },
+  "ROOT60": {
+    "meta": {
+      "title": "debug breakpoints don't work when launching from url",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/dart-lang/sdk/issues/10262",
+      "author": "DartBot",
+      "comments": 5,
+      "repository": "dart-lang/sdk",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT61": {
+    "meta": {
+      "title": "How to copy text? Ctrl + C isn't working?",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/terminal/issues/1837",
+      "author": "dazinator",
+      "comments": 22,
+      "repository": "microsoft/terminal",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM61_16"
+    },
+    "vectors": []
+  },
+  "ROOT62": {
+    "meta": {
+      "title": "Unable to delete files on Fedora 28 (gvfs-trash is deprecated)",
+      "locked": true,
+      "state": "open",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/atom/atom/issues/17452",
+      "author": "Devligue",
+      "comments": 59,
+      "repository": "atom/atom",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM62_2"
+    },
+    "vectors": []
+  },
+  "ROOT63": {
+    "meta": {
+      "title": "Replace use of whitelist with allowlist and blacklist with denylist",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/rails/rails/issues/33677",
+      "author": "dhh",
+      "comments": 11,
+      "repository": "rails/rails",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM63_4"
+    },
+    "vectors": []
+  },
+  "ROOT64": {
+    "meta": {
+      "title": "[Epic] Text Buffer rewrite ",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/8000",
+      "author": "DHowett",
+      "comments": 31,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT65": {
+    "meta": {
+      "title": "🔥[WIP][NOT READY FOR REVIEW]🐍[EXPERIMENT] 🐉 Use Ubuntu LTS as master image by default 🔥",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/kubernetes/kubernetes/pull/87654",
+      "author": "dims",
+      "comments": 23,
+      "repository": "kubernetes/kubernetes",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT66": {
+    "meta": {
+      "title": "Provide python version mismatch solutions",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/saltstack/salt/pull/48035",
+      "author": "dincamihai",
+      "comments": 21,
+      "repository": "saltstack/salt",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM66_18"
+    },
+    "vectors": []
+  },
+  "ROOT67": {
+    "meta": {
+      "title": "Support Web Components v1",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/dart-lang/sdk/issues/27445",
+      "author": "donny-dont",
+      "comments": 18,
+      "repository": "dart-lang/sdk",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM67_11"
+    },
+    "vectors": []
+  },
+  "ROOT68": {
+    "meta": {
+      "title": "Panel split background ignores `requestedTheme`, follows system app mode",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/3917",
+      "author": "dreadnaut",
+      "comments": 10,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT69": {
+    "meta": {
+      "title": "Use C++14 as default standard version for cpp projects",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/google/styleguide/issues/429",
+      "author": "dsazonoff",
+      "comments": 3,
+      "repository": "google/styleguide",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM69_0"
+    },
+    "vectors": []
+  },
+  "ROOT70": {
+    "meta": {
+      "title": "No network connection in any distribution under WSL 2",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/microsoft/WSL/issues/5336",
+      "author": "duncanmmacleod",
+      "comments": 201,
+      "repository": "microsoft/WSL",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM70_19"
+    },
+    "vectors": []
+  },
+  "ROOT71": {
+    "meta": {
+      "title": "add http2 health check for SetTransportDefaults",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/kubernetes/kubernetes/pull/94844",
+      "author": "duyanghao",
+      "comments": 27,
+      "repository": "kubernetes/kubernetes",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT72": {
+    "meta": {
+      "title": "fix crash on iOS 13 ",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/godotengine/godot/pull/33154",
+      "author": "ealataur",
+      "comments": 11,
+      "repository": "godotengine/godot",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM72_10"
+    },
+    "vectors": []
+  },
+  "ROOT73": {
+    "meta": {
+      "title": "Gatling 3.0.0 does not honor dns ttl ",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/gatling/gatling/issues/3581",
+      "author": "Elufimov",
+      "comments": 6,
+      "repository": "gatling/gatling",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM73_0"
+    },
+    "vectors": []
+  },
+  "ROOT74": {
+    "meta": {
+      "title": "(Title renamed to remove explicit language)",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/ansible/ansible/issues/36095",
+      "author": "emergy",
+      "comments": 11,
+      "repository": "ansible/ansible",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM74_6"
+    },
+    "vectors": []
+  },
+  "ROOT75": {
+    "meta": {
+      "title": "Rename \"taint\" to something less vulgar",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/kubernetes/kubernetes/issues/87655",
+      "author": "enragedginger",
+      "comments": 8,
+      "repository": "kubernetes/kubernetes",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT75"
+    },
+    "vectors": []
+  },
+  "ROOT76": {
+    "meta": {
+      "title": "kubeadm: deprecate the `ClusterStatus` dependency\r",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/kubernetes/kubernetes/pull/87656",
+      "author": "ereslibre",
+      "comments": 16,
+      "repository": "kubernetes/kubernetes",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT77": {
+    "meta": {
+      "title": "Twig syntax highlighting broken",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/jekyll/jekyll/issues/6844",
+      "author": "ericmorand",
+      "comments": 16,
+      "repository": "jekyll/jekyll",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT77"
+    },
+    "vectors": []
+  },
+  "ROOT78": {
+    "meta": {
+      "title": "Euler sequences, Quats, and DCMs",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/godotengine/godot/issues/19600",
+      "author": "ericstoneking",
+      "comments": 10,
+      "repository": "godotengine/godot",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT79": {
+    "meta": {
+      "title": "wsl2 cannot create temp file for here-document: Read-only file system",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/microsoft/WSL/issues/5337",
+      "author": "eromoe",
+      "comments": 4,
+      "repository": "microsoft/WSL",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT80": {
+    "meta": {
+      "title": "[Feature] Allow custom publish subdirectory",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/lerna/lerna/issues/901",
+      "author": "esakal",
+      "comments": 26,
+      "repository": "lerna/lerna",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM80_5"
+    },
+    "vectors": []
+  },
+  "ROOT81": {
+    "meta": {
+      "title": "DNS Problem with apt-get",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/WSL/issues/5334",
+      "author": "ewolff",
+      "comments": 3,
+      "repository": "microsoft/WSL",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT82": {
+    "meta": {
+      "title": "Add event to allow for rendering additional overlays on items in guis",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/MinecraftForge/MinecraftForge/pull/4803",
+      "author": "ExpensiveKoala",
+      "comments": 8,
+      "repository": "MinecraftForge/MinecraftForge",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM82_1"
+    },
+    "vectors": []
+  },
+  "ROOT83": {
+    "meta": {
+      "title": "Marketplace: searching by an extension's name is practically broken",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/42890",
+      "author": "fabiospampinato",
+      "comments": 46,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM83_1"
+    },
+    "vectors": []
+  },
+  "ROOT84": {
+    "meta": {
+      "title": "BUG: The `%conda` magic doesn't work",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/ipython/ipython/pull/12739",
+      "author": "farisachugthai",
+      "comments": 3,
+      "repository": "ipython/ipython",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT85": {
+    "meta": {
+      "title": "Using include asynchronously with with_items",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/ansible/ansible/issues/22716",
+      "author": "fasterfish",
+      "comments": 13,
+      "repository": "ansible/ansible",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM85_1"
+    },
+    "vectors": []
+  },
+  "ROOT86": {
+    "meta": {
+      "title": "[Proposal] CSS Variables",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/twbs/bootstrap/issues/28688",
+      "author": "Felx-B",
+      "comments": 8,
+      "repository": "twbs/bootstrap",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT87": {
+    "meta": {
+      "title": "npm install funding",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/standard/standard/issues/1381",
+      "author": "feross",
+      "comments": 174,
+      "repository": "standard/standard",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM87_8"
+    },
+    "vectors": []
+  },
+  "ROOT88": {
+    "meta": {
+      "title": "Add Stories to Windows Terminal ",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/terminal/issues/8441",
+      "author": "filmgirl",
+      "comments": 49,
+      "repository": "microsoft/terminal",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM88_16"
+    },
+    "vectors": []
+  },
+  "ROOT89": {
+    "meta": {
+      "title": "doc: Improve doc for Http2 headers object",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/nodejs/node/pull/21296",
+      "author": "Flarna",
+      "comments": 9,
+      "repository": "nodejs/node",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT90": {
+    "meta": {
+      "title": "Add annotation-based tools for dist-based implementation of methods",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/MinecraftForge/MinecraftForge/pull/7467",
+      "author": "FoxSamu",
+      "comments": 5,
+      "repository": "MinecraftForge/MinecraftForge",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT90"
+    },
+    "vectors": []
+  },
+  "ROOT91": {
+    "meta": {
+      "title": "TS-Check: Property 'createEventObject' does not exist on type 'Document'",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/TypeScript/issues/32498",
+      "author": "Friksel",
+      "comments": 4,
+      "repository": "microsoft/TypeScript",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT92": {
+    "meta": {
+      "title": "multithread example service + remove unnecessary template from codegen",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/google/tarpc/pull/278",
+      "author": "GallagherCommaJack",
+      "comments": 9,
+      "repository": "google/tarpc",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT93": {
+    "meta": {
+      "title": "Remember 5-6 months ago before C#?",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/godotengine/godot/issues/16029",
+      "author": "ghost",
+      "comments": 10,
+      "repository": "godotengine/godot",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM93_0"
+    },
+    "vectors": []
+  },
+  "ROOT94": {
+    "meta": {
+      "title": "The find/search selection highlight for the built in documentation is very hard to see.",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/godotengine/godot/issues/22552",
+      "author": "ghost",
+      "comments": 26,
+      "repository": "godotengine/godot",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT95": {
+    "meta": {
+      "title": "HTTP manipulating complete request / get raw response",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/flutter/flutter/issues/22861",
+      "author": "ghost",
+      "comments": 7,
+      "repository": "flutter/flutter",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM95_1"
+    },
+    "vectors": []
+  },
+  "ROOT96": {
+    "meta": {
+      "title": "Fix typo",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/google/tarpc/pull/279",
+      "author": "ghost",
+      "comments": 10,
+      "repository": "google/tarpc",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM96_1"
+    },
+    "vectors": []
+  },
+  "ROOT97": {
+    "meta": {
+      "title": "[Spec]  Name in use by a REAL open-source project",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/dotnet/maui/issues/67",
+      "author": "ghost",
+      "comments": 7,
+      "repository": "dotnet/maui",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT97"
+    },
+    "vectors": []
+  },
+  "ROOT98": {
+    "meta": {
+      "title": "Jekyll 4.0 Ideas",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/jekyll/jekyll/issues/6948",
+      "author": "ghost",
+      "comments": 113,
+      "repository": "jekyll/jekyll",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM98_18"
+    },
+    "vectors": []
+  },
+  "ROOT99": {
+    "meta": {
+      "title": "Norton very unhappy with vcpkgmetricsuploader",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vcpkg/issues/7240",
+      "author": "ghost",
+      "comments": 6,
+      "repository": "microsoft/vcpkg",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM99_0"
+    },
+    "vectors": []
+  },
+  "ROOT100": {
+    "meta": {
+      "title": "Four Years Later.",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/Monika-After-Story/MonikaModDev/issues/7711",
+      "author": "ghost",
+      "comments": 26,
+      "repository": "Monika-After-Story/MonikaModDev",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT100"
+    },
+    "vectors": []
+  },
+  "ROOT101": {
+    "meta": {
+      "title": "Are you serious?",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode-cmake-tools/issues/463",
+      "author": "Gibson85",
+      "comments": 3,
+      "repository": "microsoft/vscode-cmake-tools",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT101"
+    },
+    "vectors": []
+  },
+  "ROOT102": {
+    "meta": {
+      "title": "Please rename \"Terminal\" section of menu, because it's offensive to me",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87351",
+      "author": "gitstashapply",
+      "comments": 5,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT102"
+    },
+    "vectors": []
+  },
+  "ROOT103": {
+    "meta": {
+      "title": "implement and enable gce instancev2",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/kubernetes/kubernetes/pull/94846",
+      "author": "gongguan",
+      "comments": 8,
+      "repository": "kubernetes/kubernetes",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT104": {
+    "meta": {
+      "title": "Roll third_party/re2 0c95bcce2f1f..848dfb7e1d7b (2 commits)",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/google/shaderc/pull/708",
+      "author": "google-shaderc-autoroll",
+      "comments": 92,
+      "repository": "google/shaderc",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM104_4"
+    },
+    "vectors": []
+  },
+  "ROOT105": {
+    "meta": {
+      "title": "proposal: Go 2: error handling with functions and an error return?",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/golang/go/issues/27567",
+      "author": "gregwebs",
+      "comments": 55,
+      "repository": "golang/go",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT106": {
+    "meta": {
+      "title": "Terminal should dodge the onscreen keyboard slightly better",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/8983",
+      "author": "guai",
+      "comments": 6,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT107": {
+    "meta": {
+      "title": "This is the worst framework i have ever seen.",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/angular/angular/issues/22859",
+      "author": "gubenkovalik",
+      "comments": 11,
+      "repository": "angular/angular",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT107"
+    },
+    "vectors": []
+  },
+  "ROOT108": {
+    "meta": {
+      "title": "Please remove Scottish Gaelic from the Google translate block",
+      "locked": true,
+      "state": "open",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/scratchfoundation/scratch-blocks/issues/1840",
+      "author": "gunchleoc",
+      "comments": 9,
+      "repository": "scratchfoundation/scratch-blocks",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM108_7"
+    },
+    "vectors": []
+  },
+  "ROOT109": {
+    "meta": {
+      "title": "Open an RFC to discuss decision to revert License and remove Jamie",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/lerna/lerna/issues/1639",
+      "author": "hannahhoward",
+      "comments": 95,
+      "repository": "lerna/lerna",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM109_3"
+    },
+    "vectors": []
+  },
+  "ROOT110": {
+    "meta": {
+      "title": "My app is slow or missing frames (metabug)",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/flutter/flutter/issues/74833",
+      "author": "Hixie",
+      "comments": 7,
+      "repository": "flutter/flutter",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT110"
+    },
+    "vectors": []
+  },
+  "ROOT111": {
+    "meta": {
+      "title": "False negatives in results for some Exchange versions (http-vuln-cve2021-26855.nse)",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/CSS-Exchange/issues/107",
+      "author": "hrbrmstr",
+      "comments": 14,
+      "repository": "microsoft/CSS-Exchange",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT112": {
+    "meta": {
+      "title": "Color Setting not working",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/8001",
+      "author": "huangzonghao",
+      "comments": 7,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT113": {
+    "meta": {
+      "title": "doc: fix typo in fs.md",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/nodejs/node/pull/21579",
+      "author": "hugojosefson",
+      "comments": 10,
+      "repository": "nodejs/node",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT114": {
+    "meta": {
+      "title": "Please remove the black theme, because it's offensive to me",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87341",
+      "author": "Humberd",
+      "comments": 14,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM114_0"
+    },
+    "vectors": []
+  },
+  "ROOT115": {
+    "meta": {
+      "title": "Console Behavior in Javascript lessons.",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/37570",
+      "author": "HumbleAssassin",
+      "comments": 5,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM115_0"
+    },
+    "vectors": []
+  },
+  "ROOT116": {
+    "meta": {
+      "title": "Global variable scope rules lead to unintuitive behavior at the REPL/notebook",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/JuliaLang/julia/issues/28789",
+      "author": "IainNZ",
+      "comments": 98,
+      "repository": "JuliaLang/julia",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT116"
+    },
+    "vectors": []
+  },
+  "ROOT117": {
+    "meta": {
+      "title": "Bootstrap 4 with npm and webpack",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/twbs/bootstrap/issues/22196",
+      "author": "IdanCo",
+      "comments": 26,
+      "repository": "twbs/bootstrap",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT118": {
+    "meta": {
+      "title": "Bug: Sometimes useEffect() callback is called before render",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/facebook/react/issues/19100",
+      "author": "ildar-icoosoft",
+      "comments": 3,
+      "repository": "facebook/react",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM118_0"
+    },
+    "vectors": []
+  },
+  "ROOT119": {
+    "meta": {
+      "title": "docs: Removed how-to-work-on-guide-articles from 4 languages",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/37573",
+      "author": "ilse-macias",
+      "comments": 8,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT120": {
+    "meta": {
+      "title": "Extra forward slash in URLs when config[\"url\"] has a trailing forward slash",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/jekyll/jekyll/issues/6947",
+      "author": "inconvergent",
+      "comments": 4,
+      "repository": "jekyll/jekyll",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT121": {
+    "meta": {
+      "title": "Telemetry",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/calculator/issues/148",
+      "author": "InfoLibre",
+      "comments": 17,
+      "repository": "microsoft/calculator",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT121"
+    },
+    "vectors": []
+  },
+  "ROOT122": {
+    "meta": {
+      "title": "[Shallow] Implement callEffects option to call effects from shallow renderer (#15275)",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/facebook/react/pull/16168",
+      "author": "insidewhy",
+      "comments": 39,
+      "repository": "facebook/react",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT123": {
+    "meta": {
+      "title": "Strange behaviour of Delete Line and Insert Line when used above the top margin",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/141",
+      "author": "j4james",
+      "comments": 5,
+      "repository": "microsoft/terminal",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM123_2"
+    },
+    "vectors": []
+  },
+  "ROOT124": {
+    "meta": {
+      "title": "VT52 cursor left sequence conflicts with VT100 index sequence",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/144",
+      "author": "j4james",
+      "comments": 4,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT125": {
+    "meta": {
+      "title": "Fix crash in terminal when tab closed while data is being output",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/pull/8982",
+      "author": "j4james",
+      "comments": 4,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT126": {
+    "meta": {
+      "title": "Inconsistent java formatting with Eclipse and IntelliJ",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/google/styleguide/issues/430",
+      "author": "jacek-jablonski",
+      "comments": 3,
+      "repository": "google/styleguide",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT127": {
+    "meta": {
+      "title": "Holiday Festivities",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87339",
+      "author": "Jackarunda",
+      "comments": 5,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM127_0"
+    },
+    "vectors": []
+  },
+  "ROOT128": {
+    "meta": {
+      "title": "Hire a Service Fabric product manager who cares",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/service-fabric/issues/342",
+      "author": "jackbond",
+      "comments": 3,
+      "repository": "microsoft/service-fabric",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT128"
+    },
+    "vectors": []
+  },
+  "ROOT129": {
+    "meta": {
+      "title": "In Which Jack Is Angry",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/service-fabric/issues/343",
+      "author": "jackbond",
+      "comments": 3,
+      "repository": "microsoft/service-fabric",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM129_0"
+    },
+    "vectors": []
+  },
+  "ROOT130": {
+    "meta": {
+      "title": "spurious CONDITIONAL_BARE_VARS warnings",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/ansible/ansible/issues/53428",
+      "author": "jamescassell",
+      "comments": 13,
+      "repository": "ansible/ansible",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM130_1"
+    },
+    "vectors": []
+  },
+  "ROOT131": {
+    "meta": {
+      "title": "Salt 2018.3.0 service.enable mangles /etc/rc.conf, rendering system unbootable",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/saltstack/salt/issues/48036",
+      "author": "JamesSnow",
+      "comments": 6,
+      "repository": "saltstack/salt",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT132": {
+    "meta": {
+      "title": "❌(REVERTED): Add text to MIT License banning ICE collaborators",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/lerna/lerna/pull/1616",
+      "author": "jamiebuilds",
+      "comments": 10,
+      "repository": "lerna/lerna",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT132"
+    },
+    "vectors": []
+  },
+  "ROOT133": {
+    "meta": {
+      "title": "Server side WCF ",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/dotnet/wcf/issues/1200",
+      "author": "jan-johansson-mr",
+      "comments": 264,
+      "repository": "dotnet/wcf",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT134": {
+    "meta": {
+      "title": "util: add util/errors",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/nodejs/node/pull/38575",
+      "author": "jasnell",
+      "comments": 27,
+      "repository": "nodejs/node",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM134_2"
+    },
+    "vectors": []
+  },
+  "ROOT135": {
+    "meta": {
+      "title": "Typescript should follow semantic versioning  ",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/TypeScript/issues/14116",
+      "author": "jbgraug",
+      "comments": 37,
+      "repository": "microsoft/TypeScript",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT135"
+    },
+    "vectors": []
+  },
+  "ROOT136": {
+    "meta": {
+      "title": "Distributed Version",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/tensorflow/tensorflow/issues/23",
+      "author": "jermainewang",
+      "comments": 54,
+      "repository": "tensorflow/tensorflow",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM136_4"
+    },
+    "vectors": []
+  },
+  "ROOT137": {
+    "meta": {
+      "title": "Rename the \"master\" branch to avoid problematic terminology",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/angular/angular/issues/37963",
+      "author": "jermowery",
+      "comments": 7,
+      "repository": "angular/angular",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM137_1"
+    },
+    "vectors": []
+  },
+  "ROOT138": {
+    "meta": {
+      "title": "Allow decrypting of files with vaulted variables",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/ansible/ansible/issues/26190",
+      "author": "jhkrischel",
+      "comments": 37,
+      "repository": "ansible/ansible",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM138_24"
+    },
+    "vectors": []
+  },
+  "ROOT139": {
+    "meta": {
+      "title": "Update csi proxy to v0.2.1",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/kubernetes/kubernetes/pull/94842",
+      "author": "jingxu97",
+      "comments": 6,
+      "repository": "kubernetes/kubernetes",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT140": {
+    "meta": {
+      "title": "Screen margins and scrolling regions are acting strange for the JOE editor",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/1366",
+      "author": "JJussi",
+      "comments": 22,
+      "repository": "microsoft/terminal",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM140_17"
+    },
+    "vectors": []
+  },
+  "ROOT141": {
+    "meta": {
+      "title": "Make wording in the directives more inclusive",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/angular/angular/issues/29205",
+      "author": "jKittyj",
+      "comments": 6,
+      "repository": "angular/angular",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM141_0"
+    },
+    "vectors": []
+  },
+  "ROOT142": {
+    "meta": {
+      "title": "Indicator of module progress",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/42058",
+      "author": "jknapp25",
+      "comments": 18,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM142_2"
+    },
+    "vectors": []
+  },
+  "ROOT143": {
+    "meta": {
+      "title": "'Go to definition' on a tuple element name should not navigate to metadata for ValueTuple.ItemN",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/dotnet/roslyn/issues/50119",
+      "author": "jnm2",
+      "comments": 5,
+      "repository": "dotnet/roslyn",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT143"
+    },
+    "vectors": []
+  },
+  "ROOT144": {
+    "meta": {
+      "title": "⚠️🚧👷 Scheduled rename `master` branch to `main`",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/116341",
+      "author": "joaomoreno",
+      "comments": 5,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM144_1"
+    },
+    "vectors": []
+  },
+  "ROOT145": {
+    "meta": {
+      "title": "Remote Containers using SSH doesn't work in Windows",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode-docker/issues/1458",
+      "author": "joaomoreno",
+      "comments": 8,
+      "repository": "microsoft/vscode-docker",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM145_1"
+    },
+    "vectors": []
+  },
+  "ROOT146": {
+    "meta": {
+      "title": "Is Microsoft capable of writing software that doesn't turn into a nightmare?",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/dotnet/core/issues/4015",
+      "author": "Joebeazelman",
+      "comments": 3,
+      "repository": "dotnet/core",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT146"
+    },
+    "vectors": []
+  },
+  "ROOT147": {
+    "meta": {
+      "title": "website/docs: Please remove political banner.",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/golang/go/issues/39850",
+      "author": "JoeGruffins",
+      "comments": 6,
+      "repository": "golang/go",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT147"
+    },
+    "vectors": []
+  },
+  "ROOT148": {
+    "meta": {
+      "title": "Node.js would not compile with --debug --v8-non-optimized-debug",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/nodejs/node/issues/38571",
+      "author": "john-yan",
+      "comments": 6,
+      "repository": "nodejs/node",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT149": {
+    "meta": {
+      "title": "Removal of the Santa hat and kowtowing to a single fake user is offensive to me",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87328",
+      "author": "JohnMH",
+      "comments": 3,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT149"
+    },
+    "vectors": []
+  },
+  "ROOT150": {
+    "meta": {
+      "title": "gccgo: internal compiler error: in mangled_name",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/golang/go/issues/27569",
+      "author": "jopbrown",
+      "comments": 4,
+      "repository": "golang/go",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT151": {
+    "meta": {
+      "title": "Add the ability to author cross platform tasks in powershell core",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/azure-pipelines-task-lib/issues/314",
+      "author": "jsalado",
+      "comments": 26,
+      "repository": "microsoft/azure-pipelines-task-lib",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM151_23"
+    },
+    "vectors": []
+  },
+  "ROOT152": {
+    "meta": {
+      "title": "Hosting Blazor App behind an MVC app",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/dotnet/aspnetcore/issues/26488",
+      "author": "Julien-Marpault",
+      "comments": 6,
+      "repository": "dotnet/aspnetcore",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT153": {
+    "meta": {
+      "title": "Make copyto!(A,I) work for rectangular matrices",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/JuliaLang/julia/pull/28790",
+      "author": "Jutho",
+      "comments": 3,
+      "repository": "JuliaLang/julia",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT154": {
+    "meta": {
+      "title": "Snow Flake on vscode insiders and pushing death is very offensive to me",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87327",
+      "author": "Kasea",
+      "comments": 25,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM154_0"
+    },
+    "vectors": []
+  },
+  "ROOT155": {
+    "meta": {
+      "title": "v2.9.6 templating performance regression due to caching change in #67429",
+      "locked": true,
+      "state": "open",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/ansible/ansible/issues/68763",
+      "author": "kenyon",
+      "comments": 18,
+      "repository": "ansible/ansible",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM155_3"
+    },
+    "vectors": []
+  },
+  "ROOT156": {
+    "meta": {
+      "title": "Error: 'TextButton' is exported from both 'package:flutter/src/material/flat_button.dart' and 'package:flutter/src/material/text_button.dart'. export 'src/material/text_button.dart';",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/flutter/flutter/issues/128854",
+      "author": "KeshavVenkat",
+      "comments": 7,
+      "repository": "flutter/flutter",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT157": {
+    "meta": {
+      "title": "fmt: add examples",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/golang/go/issues/27376",
+      "author": "kevinburke",
+      "comments": 35,
+      "repository": "golang/go",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM157_25"
+    },
+    "vectors": []
+  },
+  "ROOT158": {
+    "meta": {
+      "title": "gatling stuck when project has other dependencies",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/gatling/gatling/issues/3474",
+      "author": "kgignatyev-inspur",
+      "comments": 5,
+      "repository": "gatling/gatling",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM158_1"
+    },
+    "vectors": []
+  },
+  "ROOT159": {
+    "meta": {
+      "title": "Integrating ARKIT and ARCORE with flutter",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/flutter/flutter/issues/22860",
+      "author": "khalithartmann",
+      "comments": 60,
+      "repository": "flutter/flutter",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT160": {
+    "meta": {
+      "title": "Security Fix",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/102513",
+      "author": "kieferrm",
+      "comments": 10,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM160_9"
+    },
+    "vectors": []
+  },
+  "ROOT161": {
+    "meta": {
+      "title": "fix(client): Improve client validation accessibility",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/37459",
+      "author": "kishore-devaraj",
+      "comments": 5,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT162": {
+    "meta": {
+      "title": "SplitButton & ToggleSplitButton's chevron gets clipped when text scaling >= ~200%.",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/microsoft-ui-xaml/issues/1519",
+      "author": "kmgallahan",
+      "comments": 7,
+      "repository": "microsoft/microsoft-ui-xaml",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT163": {
+    "meta": {
+      "title": "CheckBox & RadioButton labels become off-center when text scaling >= ~150%.",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/microsoft/microsoft-ui-xaml/issues/1520",
+      "author": "kmgallahan",
+      "comments": 27,
+      "repository": "microsoft/microsoft-ui-xaml",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT164": {
+    "meta": {
+      "title": "BUG: MeshPhongMaterial flicker with flatShading: false",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/mrdoob/three.js/issues/17882",
+      "author": "kpetrow",
+      "comments": 31,
+      "repository": "mrdoob/three.js",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM164_3"
+    },
+    "vectors": []
+  },
+  "ROOT165": {
+    "meta": {
+      "title": "npm install fails with 403 NotSupportedBrowser",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/nodejs/node/issues/21581",
+      "author": "krajuri",
+      "comments": 3,
+      "repository": "nodejs/node",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT166": {
+    "meta": {
+      "title": "improve performance of parse",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/JuliaLang/julia/pull/28787",
+      "author": "KristofferC",
+      "comments": 8,
+      "repository": "JuliaLang/julia",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT166"
+    },
+    "vectors": []
+  },
+  "ROOT167": {
+    "meta": {
+      "title": "Find a way to fit panel headers into the smaller minimum width",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/microsoft/vscode/issues/87347",
+      "author": "Kroc",
+      "comments": 15,
+      "repository": "microsoft/vscode",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT168": {
+    "meta": {
+      "title": "add: 27-quadratic-primes in js",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/37450",
+      "author": "kylelobo",
+      "comments": 4,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT169": {
+    "meta": {
+      "title": "Include Ctrl+C, Ctrl+V keybindings by default",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/terminal/issues/3058",
+      "author": "kzu",
+      "comments": 33,
+      "repository": "microsoft/terminal",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM169_3"
+    },
+    "vectors": []
+  },
+  "ROOT170": {
+    "meta": {
+      "title": "Zip nesting regression in Gradle 5.1 and later",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/gradle/gradle/issues/9204",
+      "author": "Lanchon",
+      "comments": 10,
+      "repository": "gradle/gradle",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT170"
+    },
+    "vectors": []
+  },
+  "ROOT171": {
+    "meta": {
+      "title": "fix command variable exited with status 1",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/kubernetes/kubernetes/pull/87653",
+      "author": "LexCC",
+      "comments": 35,
+      "repository": "kubernetes/kubernetes",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM171_0"
+    },
+    "vectors": []
+  },
+  "ROOT172": {
+    "meta": {
+      "title": "Array.isArray refinement loses the array's type",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/TypeScript/issues/32497",
+      "author": "lll000111",
+      "comments": 12,
+      "repository": "microsoft/TypeScript",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM172_4"
+    },
+    "vectors": []
+  },
+  "ROOT173": {
+    "meta": {
+      "title": "We cannot reach the server to update your progress.",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/37571",
+      "author": "macengr",
+      "comments": 24,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM173_8"
+    },
+    "vectors": []
+  },
+  "ROOT174": {
+    "meta": {
+      "title": "Top-level statements and functions",
+      "locked": true,
+      "state": "open",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/dotnet/csharplang/issues/3117",
+      "author": "MadsTorgersen",
+      "comments": 91,
+      "repository": "dotnet/csharplang",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM174_3"
+    },
+    "vectors": []
+  },
+  "ROOT175": {
+    "meta": {
+      "title": "Expose minizip API to allow creating zips using scripts",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/godotengine/godot/pull/22554",
+      "author": "marcelofg55",
+      "comments": 4,
+      "repository": "godotengine/godot",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT176": {
+    "meta": {
+      "title": "[docs][recipes] Update to Linking Between Recipe with example + tests",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/gatsbyjs/gatsby/pull/21854",
+      "author": "marcysutton",
+      "comments": 7,
+      "repository": "gatsbyjs/gatsby",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT177": {
+    "meta": {
+      "title": "[v4] form-control: Remove background-image: none; ",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/twbs/bootstrap/issues/23817",
+      "author": "mariusa",
+      "comments": 3,
+      "repository": "twbs/bootstrap",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT178": {
+    "meta": {
+      "title": "doc: fixed typos in api/console.md and api/crypto.md",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/nodejs/node/pull/37279",
+      "author": "marsonya",
+      "comments": 3,
+      "repository": "nodejs/node",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT179": {
+    "meta": {
+      "title": "RFS (Responsive font size) implementation",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/twbs/bootstrap/pull/23816",
+      "author": "MartijnCuppens",
+      "comments": 37,
+      "repository": "twbs/bootstrap",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT180": {
+    "meta": {
+      "title": "Remove redundant properties in card components & fix #29396",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/twbs/bootstrap/pull/28689",
+      "author": "MartijnCuppens",
+      "comments": 4,
+      "repository": "twbs/bootstrap",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT181": {
+    "meta": {
+      "title": "loading my own datasets",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/3808",
+      "author": "MartinLion",
+      "comments": 36,
+      "repository": "scikit-learn/scikit-learn",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM181_0"
+    },
+    "vectors": []
+  },
+  "ROOT182": {
+    "meta": {
+      "title": "feat(client): pagination on timeline",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/37569",
+      "author": "MathewtheCoder",
+      "comments": 18,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT183": {
+    "meta": {
+      "title": "deps: V8: workaround for darwin arm64 code page decommit failures",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/nodejs/node/pull/37276",
+      "author": "matinzd",
+      "comments": 10,
+      "repository": "nodejs/node",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT184": {
+    "meta": {
+      "title": "cnn.com time to interactive is 11s-22s",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/GoogleChrome/lighthouse/issues/11381",
+      "author": "matti",
+      "comments": 6,
+      "repository": "GoogleChrome/lighthouse",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM184_1"
+    },
+    "vectors": []
+  },
+  "ROOT185": {
+    "meta": {
+      "title": "Fix regression 8.1.1492",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/vim/vim/pull/4519",
+      "author": "mattn",
+      "comments": 4,
+      "repository": "vim/vim",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT186": {
+    "meta": {
+      "title": "Change test method from string.test(regex) to regex.test(string)",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/37458",
+      "author": "maxjunerd",
+      "comments": 3,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT187": {
+    "meta": {
+      "title": "Estimator verification API",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/3810",
+      "author": "mblondel",
+      "comments": 17,
+      "repository": "scikit-learn/scikit-learn",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT188": {
+    "meta": {
+      "title": "Scrollbar is inset by padding and probably shouldn't be",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/1365",
+      "author": "mcpiroman",
+      "comments": 4,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT189": {
+    "meta": {
+      "title": "Discussion: WinUI 3.0 and XAML Performance",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/microsoft/microsoft-ui-xaml/issues/1517",
+      "author": "mdtauk",
+      "comments": 31,
+      "repository": "microsoft/microsoft-ui-xaml",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM189_1"
+    },
+    "vectors": []
+  },
+  "ROOT190": {
+    "meta": {
+      "title": "Prevent repeated checking and typecasting in check_pairwise",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/scikit-learn/scikit-learn/issues/3807",
+      "author": "MechCoder",
+      "comments": 7,
+      "repository": "scikit-learn/scikit-learn",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT190"
+    },
+    "vectors": []
+  },
+  "ROOT191": {
+    "meta": {
+      "title": "[MRG] COSMIT: Minor opt in pairwise_distances_argmin_min",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/scikit-learn/scikit-learn/pull/3809",
+      "author": "MechCoder",
+      "comments": 4,
+      "repository": "scikit-learn/scikit-learn",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT192": {
+    "meta": {
+      "title": "change keyframe value \"frame:\" when SpriteNode->Animation->HFrames changes",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/godotengine/godot/issues/22553",
+      "author": "metaphoricalsasquash",
+      "comments": 33,
+      "repository": "godotengine/godot",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM192_3"
+    },
+    "vectors": []
+  },
+  "ROOT193": {
+    "meta": {
+      "title": "Please support web standard crypto.subtle",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/nodejs/node/issues/21580",
+      "author": "MichaelJCole",
+      "comments": 6,
+      "repository": "nodejs/node",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM193_1"
+    },
+    "vectors": []
+  },
+  "ROOT194": {
+    "meta": {
+      "title": "Fix some wording translation in german (de-DE/Resources.resw) #141",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/microsoft/calculator/pull/146",
+      "author": "michilehr",
+      "comments": 12,
+      "repository": "microsoft/calculator",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT195": {
+    "meta": {
+      "title": "Support for 32 bits architecture",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/tensorflow/tensorflow/issues/32315",
+      "author": "mihaimaruseac",
+      "comments": 15,
+      "repository": "tensorflow/tensorflow",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM195_6"
+    },
+    "vectors": []
+  },
+  "ROOT196": {
+    "meta": {
+      "title": "Use movups instead of movdqu in block op codegen",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/dotnet/runtime/pull/1367",
+      "author": "mikedn",
+      "comments": 19,
+      "repository": "dotnet/runtime",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM196_0"
+    },
+    "vectors": []
+  },
+  "ROOT197": {
+    "meta": {
+      "title": "No way to select tenant number greater than 9 in Azure Cloud Shell connector",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/3233",
+      "author": "MikeEvansLarah",
+      "comments": 3,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT198": {
+    "meta": {
+      "title": "Put local methods into chained constructor argument scope",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/dotnet/csharplang/issues/3118",
+      "author": "mikernet",
+      "comments": 3,
+      "repository": "dotnet/csharplang",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT199": {
+    "meta": {
+      "title": "Bodyless Constructors and Methods",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/dotnet/csharplang/issues/3119",
+      "author": "mikernet",
+      "comments": 7,
+      "repository": "dotnet/csharplang",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT199"
+    },
+    "vectors": []
+  },
+  "ROOT200": {
+    "meta": {
+      "title": "Stop the censorship",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87348",
+      "author": "Mikotochan",
+      "comments": 19,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT200"
+    },
+    "vectors": []
+  },
+  "ROOT201": {
+    "meta": {
+      "title": " `Use legacy console` option prevents Terminal from launching ConPTYs correctly",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/1838",
+      "author": "miniksa",
+      "comments": 3,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT202": {
+    "meta": {
+      "title": "##vso[task.prependpath] in linux always results in an extra quote added wiht the prepended path",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/azure-pipelines-tasks/issues/10165",
+      "author": "mjscosta",
+      "comments": 16,
+      "repository": "microsoft/azure-pipelines-tasks",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT203": {
+    "meta": {
+      "title": "All challenge progress lost",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/37456",
+      "author": "mkamri",
+      "comments": 5,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT204": {
+    "meta": {
+      "title": "⏱️ Call to action: Help shape the future for ASP.NET Core",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/dotnet/aspnetcore/issues/26625",
+      "author": "mkArtakMSFT",
+      "comments": 89,
+      "repository": "dotnet/aspnetcore",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT205": {
+    "meta": {
+      "title": "Some parameter names of function lead to shader compilation errors",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/godotengine/godot/issues/33156",
+      "author": "mnn",
+      "comments": 12,
+      "repository": "godotengine/godot",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM205_3"
+    },
+    "vectors": []
+  },
+  "ROOT206": {
+    "meta": {
+      "title": "Font size different in different terminals even though the same in points",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/142",
+      "author": "mobluse",
+      "comments": 4,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT207": {
+    "meta": {
+      "title": "events: improve listeners() performance",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/nodejs/node/pull/33863",
+      "author": "mscdex",
+      "comments": 3,
+      "repository": "nodejs/node",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT208": {
+    "meta": {
+      "title": "Lerna commands throw yargs warning",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/lerna/lerna/issues/2306",
+      "author": "mskelton",
+      "comments": 10,
+      "repository": "lerna/lerna",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT208"
+    },
+    "vectors": []
+  },
+  "ROOT209": {
+    "meta": {
+      "title": "NameError: name 'sys' is not defined",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/ipython/ipython/issues/12742",
+      "author": "munrad",
+      "comments": 9,
+      "repository": "ipython/ipython",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM209_2"
+    },
+    "vectors": []
+  },
+  "ROOT210": {
+    "meta": {
+      "title": "What counts as \"activity\" for Http2Session#setTimeout?",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/nodejs/node/issues/21582",
+      "author": "murgatroid99",
+      "comments": 4,
+      "repository": "nodejs/node",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT211": {
+    "meta": {
+      "title": "azure: update InitiateDeviceAuth  with InitiateDeviceAuthWithContext",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/kubernetes/kubernetes/pull/95900",
+      "author": "Murphylu1993",
+      "comments": 5,
+      "repository": "kubernetes/kubernetes",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT212": {
+    "meta": {
+      "title": "Any character requiring Alt Gt not being inserted correctly on German keyboard layout",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/487",
+      "author": "mwidmann",
+      "comments": 4,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT213": {
+    "meta": {
+      "title": "Forward port patches from 10.x security release",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/nodejs/node/pull/21297",
+      "author": "MylesBorins",
+      "comments": 4,
+      "repository": "nodejs/node",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT214": {
+    "meta": {
+      "title": "Incorrect wsl disk space",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/WSL/issues/5335",
+      "author": "Mystic8b",
+      "comments": 14,
+      "repository": "microsoft/WSL",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM214_0"
+    },
+    "vectors": []
+  },
+  "ROOT215": {
+    "meta": {
+      "title": "Can't edit animation when it's created by copying another animation",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/godotengine/godot/issues/22551",
+      "author": "mysticfall",
+      "comments": 8,
+      "repository": "godotengine/godot",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM215_6"
+    },
+    "vectors": []
+  },
+  "ROOT216": {
+    "meta": {
+      "title": "ITK portfile support legacy user code by default",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/microsoft/vcpkg/pull/7241",
+      "author": "N-Dekker",
+      "comments": 6,
+      "repository": "microsoft/vcpkg",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT217": {
+    "meta": {
+      "title": "feat: Allow custom file extensions",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/jekyll/jekyll/issues/8019",
+      "author": "NebelNidas",
+      "comments": 4,
+      "repository": "jekyll/jekyll",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT218": {
+    "meta": {
+      "title": "Missing Microsoft.ServiceFabric.Data.Extensions nuget update",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/service-fabric/issues/344",
+      "author": "negberts",
+      "comments": 5,
+      "repository": "microsoft/service-fabric",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT218"
+    },
+    "vectors": []
+  },
+  "ROOT219": {
+    "meta": {
+      "title": "Can't login for the last few days",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/37457",
+      "author": "nicknabdullah",
+      "comments": 4,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT220": {
+    "meta": {
+      "title": "Error on django",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/ipython/ipython/issues/12741",
+      "author": "night-fury-web",
+      "comments": 3,
+      "repository": "ipython/ipython",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT221": {
+    "meta": {
+      "title": "How I can add Yandex RTB (Ads-code) to Gatsby?",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/gatsbyjs/gatsby/issues/21853",
+      "author": "nikolayval",
+      "comments": 6,
+      "repository": "gatsbyjs/gatsby",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM221_3"
+    },
+    "vectors": []
+  },
+  "ROOT222": {
+    "meta": {
+      "title": "Cherry pick of #89858: kube-apiserver should exit with error if not able to connect to etcd",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/kubernetes/kubernetes/pull/94843",
+      "author": "nilo19",
+      "comments": 12,
+      "repository": "kubernetes/kubernetes",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT223": {
+    "meta": {
+      "title": "Cherry pick of #89858: kube-apiserver should exit with error if not able to connect to etcd",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/kubernetes/kubernetes/pull/94845",
+      "author": "nilo19",
+      "comments": 8,
+      "repository": "kubernetes/kubernetes",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT224": {
+    "meta": {
+      "title": "Menu and mouse behavior enhancement suggestion",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/godotengine/godot/issues/19601",
+      "author": "NiNEngine",
+      "comments": 8,
+      "repository": "godotengine/godot",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT225": {
+    "meta": {
+      "title": "[Tasks/config/tasks] Fixes Autoprefixer warnings in build log",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/Semantic-Org/Semantic-UI/pull/6887",
+      "author": "nitzel",
+      "comments": 4,
+      "repository": "Semantic-Org/Semantic-UI",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT226": {
+    "meta": {
+      "title": "🎅",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87378",
+      "author": "nkkollaw",
+      "comments": 4,
+      "repository": "microsoft/vscode",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT227": {
+    "meta": {
+      "title": "Kernel panic when opening files",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87380",
+      "author": "nkkollaw",
+      "comments": 5,
+      "repository": "microsoft/vscode",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT228": {
+    "meta": {
+      "title": "Coding productivity decreased since last build",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87383",
+      "author": "nkkollaw",
+      "comments": 3,
+      "repository": "microsoft/vscode",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT229": {
+    "meta": {
+      "title": "Tileset:  Expose bitmask flags (as a property?)",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/godotengine/godot/issues/22555",
+      "author": "nobuyukinyuu",
+      "comments": 3,
+      "repository": "godotengine/godot",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT230": {
+    "meta": {
+      "title": "ETA for UWP support?",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vs-streamjsonrpc/issues/432",
+      "author": "Noemata",
+      "comments": 16,
+      "repository": "microsoft/vs-streamjsonrpc",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM230_4"
+    },
+    "vectors": []
+  },
+  "ROOT231": {
+    "meta": {
+      "title": "[8.x] deps: V8: cherry-pick 8361fa58 from upstream",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/nodejs/node/pull/21294",
+      "author": "ofrobots",
+      "comments": 9,
+      "repository": "nodejs/node",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT232": {
+    "meta": {
+      "title": "Added Elasticsearch cluster settings get and put methods plus the flush_synced method",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/saltstack/salt/pull/54506",
+      "author": "Oloremo",
+      "comments": 6,
+      "repository": "saltstack/salt",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT233": {
+    "meta": {
+      "title": "Allow to use subset of Array values as type",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/TypeScript/issues/32499",
+      "author": "ORESoftware",
+      "comments": 5,
+      "repository": "microsoft/TypeScript",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT234": {
+    "meta": {
+      "title": "(removed)",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/golang/go/pull/43472",
+      "author": "ORESoftware",
+      "comments": 3,
+      "repository": "golang/go",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT235": {
+    "meta": {
+      "title": "Add Facebook, Twitter, and XBoxLive leader board support to System.Exception",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/dotnet/runtime/issues/20268",
+      "author": "OtherCrashOverride",
+      "comments": 9,
+      "repository": "dotnet/runtime",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM235_4"
+    },
+    "vectors": []
+  },
+  "ROOT236": {
+    "meta": {
+      "title": "OpenCL support",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/tensorflow/tensorflow/issues/22",
+      "author": "outlace",
+      "comments": 542,
+      "repository": "tensorflow/tensorflow",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT237": {
+    "meta": {
+      "title": "Change #BlackLivesMatter notification to #AllLivesMatter on angular.io main page.",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/angular/angular/issues/37771",
+      "author": "pakkpl",
+      "comments": 12,
+      "repository": "angular/angular",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM237_0"
+    },
+    "vectors": []
+  },
+  "ROOT238": {
+    "meta": {
+      "title": "Feature Request",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/1836",
+      "author": "pastra98",
+      "comments": 6,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT239": {
+    "meta": {
+      "title": "Expose report generator as public interface",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/gatling/gatling/issues/3580",
+      "author": "patelh",
+      "comments": 3,
+      "repository": "gatling/gatling",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT239"
+    },
+    "vectors": []
+  },
+  "ROOT240": {
+    "meta": {
+      "title": "Permissions needed to run Terminal",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/3230",
+      "author": "PayasR",
+      "comments": 4,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT241": {
+    "meta": {
+      "title": "Implement an alternative to startup running twice when using WebApplicationFactory",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/dotnet/aspnetcore/issues/26487",
+      "author": "pdevito3",
+      "comments": 16,
+      "repository": "dotnet/aspnetcore",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM241_1"
+    },
+    "vectors": []
+  },
+  "ROOT242": {
+    "meta": {
+      "title": "Memory leak on AuthUI.getInstance()#signOut(Activity)",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/firebase/FirebaseUI-Android/issues/561",
+      "author": "pedrodanielcsantos",
+      "comments": 4,
+      "repository": "firebase/FirebaseUI-Android",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT243": {
+    "meta": {
+      "title": "Kernel crashes every 3 seconds from a fresh install from conda from both default and conda-forge",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/ipython/ipython/issues/12430",
+      "author": "penilessquant",
+      "comments": 8,
+      "repository": "ipython/ipython",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT244": {
+    "meta": {
+      "title": "Push: NoneType has no attribute Write",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/google/python-adb/issues/134",
+      "author": "penn5",
+      "comments": 10,
+      "repository": "google/python-adb",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM244_2"
+    },
+    "vectors": []
+  },
+  "ROOT245": {
+    "meta": {
+      "title": "Issues tracker being spammed with SantaGate silliness: proposed fix",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87371",
+      "author": "Phillipus",
+      "comments": 3,
+      "repository": "microsoft/vscode",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT246": {
+    "meta": {
+      "title": "Bump major version before releasing license change.",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/lerna/lerna/issues/1628",
+      "author": "phpnode",
+      "comments": 9,
+      "repository": "lerna/lerna",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM246_1"
+    },
+    "vectors": []
+  },
+  "ROOT247": {
+    "meta": {
+      "title": "Bug(Animations): animation transition :enter delay should delay the appearance of an element",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/angular/angular/issues/24292",
+      "author": "Ploppy3",
+      "comments": 4,
+      "repository": "angular/angular",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT248": {
+    "meta": {
+      "title": "WHy angular is retarded?",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/angular/angular/issues/32876",
+      "author": "Porkechebure",
+      "comments": 5,
+      "repository": "angular/angular",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT248"
+    },
+    "vectors": []
+  },
+  "ROOT249": {
+    "meta": {
+      "title": "http2 client: enable http2 connection health check",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/kubernetes/kubernetes/pull/95898",
+      "author": "povsister",
+      "comments": 29,
+      "repository": "kubernetes/kubernetes",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM249_16"
+    },
+    "vectors": []
+  },
+  "ROOT250": {
+    "meta": {
+      "title": "Weird slowness scolling text in the console",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/terminal/issues/143",
+      "author": "powercode",
+      "comments": 42,
+      "repository": "microsoft/terminal",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM250_8"
+    },
+    "vectors": []
+  },
+  "ROOT251": {
+    "meta": {
+      "title": "Quarantine flaky test",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/dotnet/aspnetcore/pull/26627",
+      "author": "pranavkm",
+      "comments": 3,
+      "repository": "dotnet/aspnetcore",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT252": {
+    "meta": {
+      "title": "Please rename your project",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87375",
+      "author": "prikhodkoalexey",
+      "comments": 3,
+      "repository": "microsoft/vscode",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT253": {
+    "meta": {
+      "title": "[Bug] Name clash with Maui Linux and MauiKit",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/dotnet/maui/issues/35",
+      "author": "probonopd",
+      "comments": 50,
+      "repository": "dotnet/maui",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM253_3"
+    },
+    "vectors": []
+  },
+  "ROOT254": {
+    "meta": {
+      "title": "Santa Claus hat as an option in VS Code settings",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87333",
+      "author": "PrzemyslawPolrolniczak",
+      "comments": 8,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM254_2"
+    },
+    "vectors": []
+  },
+  "ROOT255": {
+    "meta": {
+      "title": "[crash] Right-click-on-tab menu is unstable",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/8985",
+      "author": "pstaag",
+      "comments": 3,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT256": {
+    "meta": {
+      "title": "net/http: TimeoutHandler hides panic locations",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/golang/go/issues/27375",
+      "author": "pvhau",
+      "comments": 11,
+      "repository": "golang/go",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT257": {
+    "meta": {
+      "title": "Deno",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/nodejs/node/issues/21295",
+      "author": "quasis",
+      "comments": 7,
+      "repository": "nodejs/node",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT258": {
+    "meta": {
+      "title": "use to_list() instead of [] notation",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/ansible/ansible/pull/51699",
+      "author": "r1k0",
+      "comments": 6,
+      "repository": "ansible/ansible",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT259": {
+    "meta": {
+      "title": "Add a help text about top contributors on the profile",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/38334",
+      "author": "raisedadead",
+      "comments": 3,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT260": {
+    "meta": {
+      "title": "Tab name appends the currently executing batch file, and when terminated, it remains as part of the name",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/1362",
+      "author": "rbeesley",
+      "comments": 4,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT261": {
+    "meta": {
+      "title": "Campbell color scheme should change the foreground color from #F2F2F2 to #CCCCCC",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/1363",
+      "author": "rbeesley",
+      "comments": 5,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT262": {
+    "meta": {
+      "title": "docs: Add a theme step to Step by Step Tutorial",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/jekyll/jekyll/issues/7432",
+      "author": "realtebo",
+      "comments": 9,
+      "repository": "jekyll/jekyll",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT263": {
+    "meta": {
+      "title": "Add Ubuntu 20.04 to CI and ansible-test",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/ansible/ansible/pull/69161",
+      "author": "relrod",
+      "comments": 12,
+      "repository": "ansible/ansible",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT264": {
+    "meta": {
+      "title": "SEA3D vs GLTF",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/mrdoob/three.js/issues/14419",
+      "author": "RemusMar",
+      "comments": 46,
+      "repository": "mrdoob/three.js",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM264_0"
+    },
+    "vectors": []
+  },
+  "ROOT265": {
+    "meta": {
+      "title": "Windows Terminal crashes right at launch - File system error (-2015294513)",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/6104",
+      "author": "retifrav",
+      "comments": 4,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT266": {
+    "meta": {
+      "title": "Conditionally import_playbook aka include_playbook",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/ansible/ansible/issues/34281",
+      "author": "reyjrar",
+      "comments": 44,
+      "repository": "ansible/ansible",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM266_21"
+    },
+    "vectors": []
+  },
+  "ROOT267": {
+    "meta": {
+      "title": "This Tools is not run for Ex2010  ?",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/CSS-Exchange/issues/108",
+      "author": "rezatbahtera",
+      "comments": 26,
+      "repository": "microsoft/CSS-Exchange",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT268": {
+    "meta": {
+      "title": "[v10.x] Reland npm 6.14.11",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/nodejs/node/pull/37278",
+      "author": "richardlau",
+      "comments": 4,
+      "repository": "nodejs/node",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT269": {
+    "meta": {
+      "title": "Adding WREN to vcpkg",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/microsoft/vcpkg/pull/7242",
+      "author": "RichyHBM",
+      "comments": 4,
+      "repository": "microsoft/vcpkg",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT270": {
+    "meta": {
+      "title": "curriculum not on 100%",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/38335",
+      "author": "rocnogu",
+      "comments": 5,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT270"
+    },
+    "vectors": []
+  },
+  "ROOT271": {
+    "meta": {
+      "title": "Night mode doesnt work by me.",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/38336",
+      "author": "rocnogu",
+      "comments": 8,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM271_1"
+    },
+    "vectors": []
+  },
+  "ROOT272": {
+    "meta": {
+      "title": "The positioning of an app using winappdriver is incorrect.",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/WinAppDriver/issues/164",
+      "author": "rogerst8",
+      "comments": 4,
+      "repository": "microsoft/WinAppDriver",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT272"
+    },
+    "vectors": []
+  },
+  "ROOT273": {
+    "meta": {
+      "title": "Fake client example: document how to handle a race with informer",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/kubernetes/kubernetes/pull/95897",
+      "author": "roycaihw",
+      "comments": 7,
+      "repository": "kubernetes/kubernetes",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT274": {
+    "meta": {
+      "title": "Windows update failed: Access is denied",
+      "locked": true,
+      "state": "open",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/47841",
+      "author": "ryanolsonx",
+      "comments": 142,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM274_9"
+    },
+    "vectors": []
+  },
+  "ROOT275": {
+    "meta": {
+      "title": "ES6 - Write Higher Order Arrow Functions - About Chaining, Needs Clarification",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/17379",
+      "author": "SaintPeter",
+      "comments": 31,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT276": {
+    "meta": {
+      "title": "RTL text selection",
+      "locked": true,
+      "state": "open",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/atom/atom/issues/10132",
+      "author": "salar90",
+      "comments": 39,
+      "repository": "atom/atom",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT277": {
+    "meta": {
+      "title": "Make auth_method_picker layout work in landscape",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/firebase/FirebaseUI-Android/pull/562",
+      "author": "samtstern",
+      "comments": 3,
+      "repository": "firebase/FirebaseUI-Android",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT278": {
+    "meta": {
+      "title": "Add an AuthUI.reauthenticate() function",
+      "locked": true,
+      "state": "open",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/firebase/FirebaseUI-Android/issues/563",
+      "author": "samtstern",
+      "comments": 9,
+      "repository": "firebase/FirebaseUI-Android",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT279": {
+    "meta": {
+      "title": "Problems running the image example (Python 2.7.10, PyEnv, Xubuntu 14.04 64bit)",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/tensorflow/tensorflow/issues/24",
+      "author": "samuell",
+      "comments": 6,
+      "repository": "tensorflow/tensorflow",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT280": {
+    "meta": {
+      "title": "Uri.resolveUri does not work correctly for relative URIs.",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/dart-lang/sdk/issues/27447",
+      "author": "scheglov",
+      "comments": 12,
+      "repository": "dart-lang/sdk",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM280_0"
+    },
+    "vectors": []
+  },
+  "ROOT281": {
+    "meta": {
+      "title": "cleanup of leftover part of a comment. Follow up for #94109",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/kubernetes/kubernetes/pull/95899",
+      "author": "SergeyKanzhelev",
+      "comments": 6,
+      "repository": "kubernetes/kubernetes",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT282": {
+    "meta": {
+      "title": "Add help option to `list --help` output",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/dotnet/cli-lab/issues/104",
+      "author": "sfoslund",
+      "comments": 6,
+      "repository": "dotnet/cli-lab",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT283": {
+    "meta": {
+      "title": "use allowlist instead of whitelist",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/facebook/react/pull/19102",
+      "author": "shengxinjing",
+      "comments": 10,
+      "repository": "facebook/react",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT284": {
+    "meta": {
+      "title": "fix(learn): missing semi-colon on use arrow functions to write anonymous functions",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/37454",
+      "author": "shrobbins",
+      "comments": 4,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT285": {
+    "meta": {
+      "title": "GPU_Base dockerfile image not found",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/tensorflow/tensorflow/issues/21",
+      "author": "sibleyd",
+      "comments": 3,
+      "repository": "tensorflow/tensorflow",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT286": {
+    "meta": {
+      "title": "The Future of IdentityServer",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/dotnet/aspnetcore/issues/26489",
+      "author": "SIkebe",
+      "comments": 45,
+      "repository": "dotnet/aspnetcore",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM286_3"
+    },
+    "vectors": []
+  },
+  "ROOT287": {
+    "meta": {
+      "title": "practice commit - please ignore!",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/nodejs/node/pull/33865",
+      "author": "sjaugmented",
+      "comments": 4,
+      "repository": "nodejs/node",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM287_0"
+    },
+    "vectors": []
+  },
+  "ROOT288": {
+    "meta": {
+      "title": "uses-long-cache is too strict",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/GoogleChrome/lighthouse/issues/11380",
+      "author": "sk-",
+      "comments": 5,
+      "repository": "GoogleChrome/lighthouse",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT289": {
+    "meta": {
+      "title": "Roll Fuchsia Mac SDK from 7LGbVIHUD... to mpToCR2bB...",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/flutter/engine/pull/23912",
+      "author": "skia-flutter-autoroll",
+      "comments": 5,
+      "repository": "flutter/engine",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT289"
+    },
+    "vectors": []
+  },
+  "ROOT290": {
+    "meta": {
+      "title": "Support Pluginfile in \"import_from_git\"",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/fastlane/fastlane/issues/13762",
+      "author": "Skoti",
+      "comments": 14,
+      "repository": "fastlane/fastlane",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM290_1"
+    },
+    "vectors": []
+  },
+  "ROOT291": {
+    "meta": {
+      "title": "Keymap configuration cannot be recognized",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/6102",
+      "author": "skywind3000",
+      "comments": 4,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT292": {
+    "meta": {
+      "title": "Atom still spies on the user even prior to consent request",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/atom/atom/issues/20182",
+      "author": "sneak",
+      "comments": 18,
+      "repository": "atom/atom",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM292_0"
+    },
+    "vectors": []
+  },
+  "ROOT293": {
+    "meta": {
+      "title": "[1.15] IForgeBlockState.getAiPathNodeType is never called",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/MinecraftForge/MinecraftForge/issues/6441",
+      "author": "Snownee",
+      "comments": 4,
+      "repository": "MinecraftForge/MinecraftForge",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT293"
+    },
+    "vectors": []
+  },
+  "ROOT294": {
+    "meta": {
+      "title": "CUDA 7.5 fails with pip install and docker (Ubuntu 14.04)",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/tensorflow/tensorflow/issues/20",
+      "author": "soumith",
+      "comments": 54,
+      "repository": "tensorflow/tensorflow",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT294"
+    },
+    "vectors": []
+  },
+  "ROOT295": {
+    "meta": {
+      "title": "Vagrant box downloads extremely slow",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/hashicorp/vagrant/issues/5319",
+      "author": "spkane",
+      "comments": 112,
+      "repository": "hashicorp/vagrant",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM295_1"
+    },
+    "vectors": []
+  },
+  "ROOT296": {
+    "meta": {
+      "title": "Why Angular can be overcomplicated?",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/angular/angular/issues/23337",
+      "author": "splincode",
+      "comments": 36,
+      "repository": "angular/angular",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM296_0"
+    },
+    "vectors": []
+  },
+  "ROOT297": {
+    "meta": {
+      "title": "Do not warn when DOM attribute values are undefined",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/facebook/react/pull/16169",
+      "author": "stephan-noel",
+      "comments": 16,
+      "repository": "facebook/react",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT298": {
+    "meta": {
+      "title": "Editor Utility Tools Update",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/microsoft/MixedRealityToolkit-Unity/pull/887",
+      "author": "StephenHodgson",
+      "comments": 4,
+      "repository": "microsoft/MixedRealityToolkit-Unity",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT298"
+    },
+    "vectors": []
+  },
+  "ROOT299": {
+    "meta": {
+      "title": "So many issues and pull requests with only one contributor?",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/vim/vim/issues/4518",
+      "author": "taoso",
+      "comments": 11,
+      "repository": "vim/vim",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM299_1"
+    },
+    "vectors": []
+  },
+  "ROOT300": {
+    "meta": {
+      "title": "[v10.x] deps: V8: backport cd21f71f9cb5",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/nodejs/node/pull/33862",
+      "author": "targos",
+      "comments": 7,
+      "repository": "nodejs/node",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT301": {
+    "meta": {
+      "title": "fix a small typo",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/microsoft/vs-streamjsonrpc/pull/433",
+      "author": "tebeco",
+      "comments": 3,
+      "repository": "microsoft/vs-streamjsonrpc",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM301_0"
+    },
+    "vectors": []
+  },
+  "ROOT302": {
+    "meta": {
+      "title": "Add \"sync_mods\" argument to state.apply/state.sls",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/saltstack/salt/pull/48037",
+      "author": "terminalmage",
+      "comments": 3,
+      "repository": "saltstack/salt",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT303": {
+    "meta": {
+      "title": "Display clipboard contents in the multiple line warning dialog box when pasting into Terminal",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/7997",
+      "author": "tfennel",
+      "comments": 6,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT304": {
+    "meta": {
+      "title": "Firebase Realtime Database don't get update from wifi",
+      "locked": true,
+      "state": "open",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/firebase/firebase-android-sdk/issues/1258",
+      "author": "Thaina",
+      "comments": 21,
+      "repository": "firebase/firebase-android-sdk",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT305": {
+    "meta": {
+      "title": "[1.15.1] Add event for when a chat packet is about to be sent from the server to a client",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/MinecraftForge/MinecraftForge/pull/6443",
+      "author": "The-Fireplace",
+      "comments": 5,
+      "repository": "MinecraftForge/MinecraftForge",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM305_0"
+    },
+    "vectors": []
+  },
+  "ROOT306": {
+    "meta": {
+      "title": "Added chunk instance to ChunkWatchEvent",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/MinecraftForge/MinecraftForge/pull/4805",
+      "author": "TheCyberBrick",
+      "comments": 13,
+      "repository": "MinecraftForge/MinecraftForge",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT306"
+    },
+    "vectors": []
+  },
+  "ROOT307": {
+    "meta": {
+      "title": "Bug: state could be reset into the initialValue when using StrictMode",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/facebook/react/issues/19103",
+      "author": "theKashey",
+      "comments": 10,
+      "repository": "facebook/react",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM307_3"
+    },
+    "vectors": []
+  },
+  "ROOT308": {
+    "meta": {
+      "title": "Crash on Android 6.0 Xiaomi devices after release on PlayStore",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/flutter/flutter/issues/36822",
+      "author": "thesmalleyes",
+      "comments": 57,
+      "repository": "flutter/flutter",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT309": {
+    "meta": {
+      "title": "Adjust colors for \"control\" and \"events\"",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/scratchfoundation/scratch-blocks/issues/1489",
+      "author": "thisandagain",
+      "comments": 3,
+      "repository": "scratchfoundation/scratch-blocks",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT310": {
+    "meta": {
+      "title": "Focus on Terminal View on mouse hover",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/98475",
+      "author": "tifDev",
+      "comments": 8,
+      "repository": "microsoft/vscode",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT311": {
+    "meta": {
+      "title": "Please create Offensive build of VSCode",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87381",
+      "author": "tn",
+      "comments": 5,
+      "repository": "microsoft/vscode",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT311"
+    },
+    "vectors": []
+  },
+  "ROOT312": {
+    "meta": {
+      "title": "Deprecate DL4J Word2Vec for fastText?",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/deeplearning4j/deeplearning4j/issues/5395",
+      "author": "tom-adsfund",
+      "comments": 14,
+      "repository": "deeplearning4j/deeplearning4j",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM312_5"
+    },
+    "vectors": []
+  },
+  "ROOT313": {
+    "meta": {
+      "title": "'Efficiently encode images' showing wrong sizes / potential savings",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/GoogleChrome/lighthouse/issues/11379",
+      "author": "torian257x",
+      "comments": 4,
+      "repository": "GoogleChrome/lighthouse",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT314": {
+    "meta": {
+      "title": "Terminal windows are closed whenever updated from the store",
+      "locked": true,
+      "state": "open",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/microsoft/terminal/issues/3915",
+      "author": "tovine",
+      "comments": 17,
+      "repository": "microsoft/terminal",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM314_1"
+    },
+    "vectors": []
+  },
+  "ROOT315": {
+    "meta": {
+      "title": "fix: removed trailing spaces, fixed a typo",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/37572",
+      "author": "tr1s",
+      "comments": 5,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT316": {
+    "meta": {
+      "title": "Source Generator fails unless the generator source code is modified.",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/dotnet/roslyn/issues/50116",
+      "author": "trampster",
+      "comments": 3,
+      "repository": "dotnet/roslyn",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT316"
+    },
+    "vectors": []
+  },
+  "ROOT317": {
+    "meta": {
+      "title": "Rename default branch from \"master\" to \"main\"",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/nodejs/node/issues/33864",
+      "author": "trivikr",
+      "comments": 124,
+      "repository": "nodejs/node",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM317_3"
+    },
+    "vectors": []
+  },
+  "ROOT318": {
+    "meta": {
+      "title": "Adds experimental event component responder surfaces",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/facebook/react/pull/15228",
+      "author": "trueadm",
+      "comments": 5,
+      "repository": "facebook/react",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT319": {
+    "meta": {
+      "title": "/etc/cups/subscriptions.conf should live in /var",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/apple/cups/issues/5313",
+      "author": "tvw",
+      "comments": 5,
+      "repository": "apple/cups",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM319_1"
+    },
+    "vectors": []
+  },
+  "ROOT320": {
+    "meta": {
+      "title": "lerna bootstrap links whole folder, even if files and main are specified",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/lerna/lerna/issues/2304",
+      "author": "UnchartedBull",
+      "comments": 12,
+      "repository": "lerna/lerna",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM320_2"
+    },
+    "vectors": []
+  },
+  "ROOT321": {
+    "meta": {
+      "title": "no-git-push not working after 3.18.0",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/lerna/lerna/issues/2305",
+      "author": "uncleramsay",
+      "comments": 16,
+      "repository": "lerna/lerna",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT321"
+    },
+    "vectors": []
+  },
+  "ROOT322": {
+    "meta": {
+      "title": "v3.18.0: `--hoist` no longer accepts multiple string values (yargs v14 change)",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/lerna/lerna/issues/2307",
+      "author": "uqcgreen",
+      "comments": 5,
+      "repository": "lerna/lerna",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT322"
+    },
+    "vectors": []
+  },
+  "ROOT323": {
+    "meta": {
+      "title": "Old git tag is displayed when there's newer one",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/refined-github/refined-github/issues/1291",
+      "author": "vanniktech",
+      "comments": 15,
+      "repository": "refined-github/refined-github",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT324": {
+    "meta": {
+      "title": "Nice, the only notable contribution you've ever made anywhere on Github is making sure everyone at Google knows you're a racist.",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/angular/angular/issues/37925",
+      "author": "varun-av",
+      "comments": 3,
+      "repository": "angular/angular",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT324"
+    },
+    "vectors": []
+  },
+  "ROOT325": {
+    "meta": {
+      "title": "UTF-8 no BOM",
+      "locked": true,
+      "state": "closed",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/google/styleguide/pull/428",
+      "author": "veganaize",
+      "comments": 12,
+      "repository": "google/styleguide",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT325"
+    },
+    "vectors": []
+  },
+  "ROOT326": {
+    "meta": {
+      "title": "restart salt-syndic when salt-master restart",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/saltstack/salt/pull/48034",
+      "author": "vinian",
+      "comments": 3,
+      "repository": "saltstack/salt",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT327": {
+    "meta": {
+      "title": "Add ability to turn off AE2 Channels",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/Divine-Journey-2/Divine-Journey-2/issues/248",
+      "author": "vishtheshnu",
+      "comments": 6,
+      "repository": "Divine-Journey-2/Divine-Journey-2",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM327_2"
+    },
+    "vectors": []
+  },
+  "ROOT328": {
+    "meta": {
+      "title": "mount.mounted does not handle blanks properly",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/saltstack/salt/issues/54508",
+      "author": "votdev",
+      "comments": 14,
+      "repository": "saltstack/salt",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM328_11"
+    },
+    "vectors": []
+  },
+  "ROOT329": {
+    "meta": {
+      "title": "Options ... Naming Style dialog unusable with Dark theme",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/dotnet/roslyn/issues/24030",
+      "author": "vsfeedback",
+      "comments": 4,
+      "repository": "dotnet/roslyn",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT330": {
+    "meta": {
+      "title": "VS2017express C#, tabs replaced with spaces",
+      "locked": true,
+      "state": "open",
+      "state_reason": null,
+      "heated": true,
+      "url": "https://github.com/dotnet/roslyn/issues/24031",
+      "author": "vsfeedback",
+      "comments": 61,
+      "repository": "dotnet/roslyn",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM330_10"
+    },
+    "vectors": []
+  },
+  "ROOT331": {
+    "meta": {
+      "title": "Hard to see cursor when using in-place rename refactoring",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/dotnet/roslyn/issues/24032",
+      "author": "vsfeedback",
+      "comments": 3,
+      "repository": "dotnet/roslyn",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT332": {
+    "meta": {
+      "title": "Incorrect formatting of C# comments",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/dotnet/roslyn/issues/29482",
+      "author": "vsfeedback",
+      "comments": 52,
+      "repository": "dotnet/roslyn",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM332_19"
+    },
+    "vectors": []
+  },
+  "ROOT333": {
+    "meta": {
+      "title": "关于微软应用商店语言简洁的一个非常重要的建议，请将【中文（台湾）】改为【中文（繁体）】，谢谢！",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/terminal/issues/8984",
+      "author": "WangJincheng4869",
+      "comments": 9,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT334": {
+    "meta": {
+      "title": "pkg.install on Arch upgrades full OS as a default option.",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/saltstack/salt/issues/47160",
+      "author": "whytewolf",
+      "comments": 5,
+      "repository": "saltstack/salt",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM334_1"
+    },
+    "vectors": []
+  },
+  "ROOT335": {
+    "meta": {
+      "title": "Clean up a bunch of render events",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/MinecraftForge/MinecraftForge/pull/6444",
+      "author": "williewillus",
+      "comments": 5,
+      "repository": "MinecraftForge/MinecraftForge",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT336": {
+    "meta": {
+      "title": "Forum Login Issue",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/37452",
+      "author": "worl4125",
+      "comments": 6,
+      "repository": "freeCodeCamp/freeCodeCamp",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT337": {
+    "meta": {
+      "title": "Too tricky explanation of Win32 support",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/microsoft-ui-xaml/issues/1518",
+      "author": "WrongBit",
+      "comments": 10,
+      "repository": "microsoft/microsoft-ui-xaml",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM337_2"
+    },
+    "vectors": []
+  },
+  "ROOT338": {
+    "meta": {
+      "title": "Add WSL distro default desktop wallpapers as default background",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/microsoft/terminal/issues/6105",
+      "author": "WSLUser",
+      "comments": 8,
+      "repository": "microsoft/terminal",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT339": {
+    "meta": {
+      "title": "100% Reproducible crash on Mac OS Catalina that happens on projects with more than 1024 files in them.",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/vscode/issues/87369",
+      "author": "x1024",
+      "comments": 4,
+      "repository": "microsoft/vscode",
+      "predicted_heated": false,
+      "correct_prediction": false
+    },
+    "vectors": []
+  },
+  "ROOT340": {
+    "meta": {
+      "title": "feature: dependency lock workflows",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "not_planned",
+      "heated": false,
+      "url": "https://github.com/gradle/gradle/issues/5912",
+      "author": "xenoterracide",
+      "comments": 4,
+      "repository": "gradle/gradle",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT341": {
+    "meta": {
+      "title": "Fail to compile under VS2017",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/MixedRealityToolkit-Unity/issues/885",
+      "author": "Xispeo",
+      "comments": 7,
+      "repository": "microsoft/MixedRealityToolkit-Unity",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM341_6"
+    },
+    "vectors": []
+  },
+  "ROOT342": {
+    "meta": {
+      "title": "Infantry cancel their order once they dodge a vehicle",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/OpenRA/OpenRA/issues/18234",
+      "author": "Yara-smurf",
+      "comments": 22,
+      "repository": "OpenRA/OpenRA",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM342_14"
+    },
+    "vectors": []
+  },
+  "ROOT343": {
+    "meta": {
+      "title": "Replace the refinery with the \"ERCC\" refinery in the standard game",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "not_planned",
+      "heated": true,
+      "url": "https://github.com/OpenRA/OpenRA/issues/18235",
+      "author": "Yara-smurf",
+      "comments": 16,
+      "repository": "OpenRA/OpenRA",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "COM343_5"
+    },
+    "vectors": []
+  },
+  "ROOT344": {
+    "meta": {
+      "title": "Add transform SVG node parse",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/mrdoob/three.js/pull/14418",
+      "author": "yomboprime",
+      "comments": 13,
+      "repository": "mrdoob/three.js",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "ROOT344"
+    },
+    "vectors": []
+  },
+  "ROOT345": {
+    "meta": {
+      "title": "Fuck Flutter",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/flutter/flutter/issues/65772",
+      "author": "youfeed",
+      "comments": 3,
+      "repository": "flutter/flutter",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT345"
+    },
+    "vectors": []
+  },
+  "ROOT346": {
+    "meta": {
+      "title": "Godot editor GUI issue",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/godotengine/godot/issues/33155",
+      "author": "zaksnet",
+      "comments": 4,
+      "repository": "godotengine/godot",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT347": {
+    "meta": {
+      "title": "Class requires Angular annotation even when abstract.",
+      "locked": false,
+      "state": "open",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/angular/angular/issues/37769",
+      "author": "zehavibarak",
+      "comments": 38,
+      "repository": "angular/angular",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM347_5"
+    },
+    "vectors": []
+  },
+  "ROOT348": {
+    "meta": {
+      "title": "Fix crashes on Linux/PPC64 ELFv1",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/nodejs/node/pull/33866",
+      "author": "zeldin",
+      "comments": 13,
+      "repository": "nodejs/node",
+      "predicted_heated": true,
+      "correct_prediction": false,
+      "firstPrediction": "COM348_9"
+    },
+    "vectors": []
+  },
+  "ROOT349": {
+    "meta": {
+      "title": "Test case \"[GDNative String] humanize_size\" fails on win32 build",
+      "locked": false,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": false,
+      "url": "https://github.com/godotengine/godot/issues/44924",
+      "author": "zerc",
+      "comments": 3,
+      "repository": "godotengine/godot",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  },
+  "ROOT350": {
+    "meta": {
+      "title": "Microsoft Safety Scanner shows different results than Test-ProxyLogon.ps1 ",
+      "locked": true,
+      "state": "closed",
+      "state_reason": "completed",
+      "heated": true,
+      "url": "https://github.com/microsoft/CSS-Exchange/issues/109",
+      "author": "zerocarbthirty",
+      "comments": 3,
+      "repository": "microsoft/CSS-Exchange",
+      "predicted_heated": true,
+      "correct_prediction": true,
+      "firstPrediction": "ROOT350"
+    },
+    "vectors": []
+  },
+  "ROOT351": {
+    "meta": {
+      "title": "make flags of TokenRequest required",
+      "locked": false,
+      "state": "closed",
+      "state_reason": null,
+      "heated": false,
+      "url": "https://github.com/kubernetes/kubernetes/pull/95896",
+      "author": "zshihang",
+      "comments": 24,
+      "repository": "kubernetes/kubernetes",
+      "predicted_heated": false,
+      "correct_prediction": true
+    },
+    "vectors": []
+  }
+}

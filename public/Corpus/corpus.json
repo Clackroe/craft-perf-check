@@ -1,0 +1,13 @@
+{
+    "numComments": "---",
+    "numParticipants": "---",
+    "utterances": 4650,
+    "conversations": 352,
+    "correctPredictions": 263,
+    "CorectPredctions-Heated": 139,
+    "CorrectPrediction-Civil": 124,
+    "totalPredictedHeated": 191,
+    "totalPredictedCivil": 161,
+    "totalReallyHeated": 176,
+    "totalReallyCivil": 176
+}
