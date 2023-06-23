@@ -23,18 +23,20 @@ export const convRouter = createTRPCRouter({
       let repository = "";
       let derailPoint = "";
       let commBefore = "";
-      await fs.readFile(`/Corpus/conversations.json`, "utf8").then((data) => {
-        let conversations = JSON.parse(data);
-        conversations = conversations["ROOT" + input.convNumber];
-        heated = conversations.meta["heated"];
-        predHeated = conversations.meta["predicted_heated"];
-        repository = conversations.meta["repository"];
-        derailPoint = conversations.meta["derailPoint"];
-        commBefore = conversations["commentsBeforeDerailment"];
-        const ret = JSON.stringify(conversations);
-        output = ret; // Return the conversation data here
-        // console.log(output);
-      });
+      await fs
+        .readFile(`/public/Corpus/conversations.json`, "utf8")
+        .then((data) => {
+          let conversations = JSON.parse(data);
+          conversations = conversations["ROOT" + input.convNumber];
+          heated = conversations.meta["heated"];
+          predHeated = conversations.meta["predicted_heated"];
+          repository = conversations.meta["repository"];
+          derailPoint = conversations.meta["derailPoint"];
+          commBefore = conversations["commentsBeforeDerailment"];
+          const ret = JSON.stringify(conversations);
+          output = ret; // Return the conversation data here
+          // console.log(output);
+        });
       // console.log(output);
 
       // if (output == undefined) {
@@ -57,7 +59,7 @@ export const convRouter = createTRPCRouter({
       let output = "";
       let image = "";
       let role = "";
-      await fs.readFile(`/Corpus/speakers.json`, "utf8").then((data) => {
+      await fs.readFile(`/public/Corpus/speakers.json`, "utf8").then((data) => {
         const conversations = JSON.parse(data)[input.speaker];
         image = conversations.meta.avatar;
         role = conversations.meta.role;
@@ -73,18 +75,20 @@ export const convRouter = createTRPCRouter({
     .input(z.object({ convNumber: z.string() }))
     .query(async ({ input }) => {
       let output;
-      await fs.readFile(`/Corpus/utterances.jsonl`, "utf8").then((data) => {
-        const parsed = JSONL.parse<any>(data);
-        // const stringified = JSONL.stringify(parsed);
+      await fs
+        .readFile(`/public/Corpus/utterances.jsonl`, "utf8")
+        .then((data) => {
+          const parsed = JSONL.parse<any>(data);
+          // const stringified = JSONL.stringify(parsed);
 
-        const utterances = [];
-        for (let i = 0; i < parsed.length; i++) {
-          if (parsed[i].conversation_id === "ROOT" + input.convNumber) {
-            utterances.push(parsed[i]);
+          const utterances = [];
+          for (let i = 0; i < parsed.length; i++) {
+            if (parsed[i].conversation_id === "ROOT" + input.convNumber) {
+              utterances.push(parsed[i]);
+            }
+            output = utterances;
           }
-          output = utterances;
-        }
-      });
+        });
 
       return { info: output, convNum: input.convNumber };
     }),
@@ -93,7 +97,10 @@ export const convRouter = createTRPCRouter({
     .input(z.object({ convNumber: z.string(), comment: z.string() }))
     .mutation(async ({ input }) => {
       try {
-        const data = await fs.readFile("/Corpus/conversations.json", "utf8");
+        const data = await fs.readFile(
+          "/public/Corpus/conversations.json",
+          "utf8"
+        );
         const json = JSON.parse(data);
 
         if (json[input.convNumber]) {
@@ -104,7 +111,7 @@ export const convRouter = createTRPCRouter({
             ) + " ";
 
           await fs.writeFile(
-            "/Corpus/conversations.json",
+            "/public/Corpus/conversations.json",
             JSON.stringify(json, null, 2),
             "utf8"
           );
@@ -122,7 +129,10 @@ export const convRouter = createTRPCRouter({
     .input(z.object({ convNumber: z.string(), derailPoint: z.string() }))
     .mutation(async ({ input }) => {
       try {
-        const data = await fs.readFile("/Corpus/conversations.json", "utf8");
+        const data = await fs.readFile(
+          "/public/Corpus/conversations.json",
+          "utf8"
+        );
         const json = JSON.parse(data);
 
         // console.log(input.convNumber);
@@ -165,7 +175,7 @@ export const convRouter = createTRPCRouter({
           console.log(parseInt(derailNum) - parseInt(firstPrediction));
 
           await fs.writeFile(
-            "/Corpus/conversations.json",
+            "/public/Corpus/conversations.json",
             JSON.stringify(json, null, 2),
             "utf8"
           );
@@ -186,7 +196,7 @@ export const convRouter = createTRPCRouter({
 
     return await new Promise<void>((resolve, reject) => {
       archive
-        .directory("/Corpus", false)
+        .directory("/public/Corpus", false)
         .on("error", (err) => reject(err))
         .pipe(stream);
       stream.on("close", () => {
@@ -208,20 +218,22 @@ export const convRouter = createTRPCRouter({
     let totalReallyCivil = "";
     let totalReallyHeated = "";
 
-    await fs.readFile("/Corpus/corpus.json", "utf8").then((data) => {
-      const conversations = JSON.parse(data);
-      utterances = conversations.utterances;
-      converations = conversations.conversations;
-      correctPredictions = conversations.correctPredictions;
-      correctPredictionsHeated = conversations["CorectPredctions-Heated"];
-      correctPredictionsCivil = conversations["CorrectPrediction-Civil"];
-      totalPredictedHeated = conversations.totalPredictedHeated;
-      totalPredictedCivil = conversations.totalPredictedCivil;
-      totalReallyCivil = conversations.totalReallyCivil;
-      totalReallyHeated = conversations.totalReallyHeated;
+    await fs
+      .readFile("/public/Corpus/public/Corpus.json", "utf8")
+      .then((data) => {
+        const conversations = JSON.parse(data);
+        utterances = conversations.utterances;
+        converations = conversations.conversations;
+        correctPredictions = conversations.correctPredictions;
+        correctPredictionsHeated = conversations["CorectPredctions-Heated"];
+        correctPredictionsCivil = conversations["CorrectPrediction-Civil"];
+        totalPredictedHeated = conversations.totalPredictedHeated;
+        totalPredictedCivil = conversations.totalPredictedCivil;
+        totalReallyCivil = conversations.totalReallyCivil;
+        totalReallyHeated = conversations.totalReallyHeated;
 
-      // console.log(output);
-    });
+        // console.log(output);
+      });
 
     return {
       utterances: utterances,
