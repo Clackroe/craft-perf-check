@@ -87,7 +87,7 @@ export default function Layout() {
   async function makeZip() {
     zipAPI.mutate();
     await new Promise((resolve) => setTimeout(resolve, 3000)).then(async () => {
-      await download("/download.zip", "download.zip");
+      await download("/public/download.zip", "download.zip");
     });
   }
 

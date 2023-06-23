@@ -192,7 +192,7 @@ export const convRouter = createTRPCRouter({
   makeZip: publicProcedure.mutation(async () => {
     console.log("Making zip");
     const archive = archiver("zip", { zlib: { level: 9 } });
-    const stream = fsSync.createWriteStream("~/download.zip");
+    const stream = fsSync.createWriteStream("/public/download.zip");
 
     return await new Promise<void>((resolve, reject) => {
       archive
@@ -218,7 +218,7 @@ export const convRouter = createTRPCRouter({
     let totalReallyCivil = "";
     let totalReallyHeated = "";
 
-    await fs.readFile("/public/Corpus.json", "utf8").then((data) => {
+    await fs.readFile("/public/Corpus/corpus.json", "utf8").then((data) => {
       const conversations = JSON.parse(data);
       utterances = conversations.utterances;
       converations = conversations.conversations;
