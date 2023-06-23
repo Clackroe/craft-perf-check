@@ -218,22 +218,20 @@ export const convRouter = createTRPCRouter({
     let totalReallyCivil = "";
     let totalReallyHeated = "";
 
-    await fs
-      .readFile("/public/Corpus/public/Corpus.json", "utf8")
-      .then((data) => {
-        const conversations = JSON.parse(data);
-        utterances = conversations.utterances;
-        converations = conversations.conversations;
-        correctPredictions = conversations.correctPredictions;
-        correctPredictionsHeated = conversations["CorectPredctions-Heated"];
-        correctPredictionsCivil = conversations["CorrectPrediction-Civil"];
-        totalPredictedHeated = conversations.totalPredictedHeated;
-        totalPredictedCivil = conversations.totalPredictedCivil;
-        totalReallyCivil = conversations.totalReallyCivil;
-        totalReallyHeated = conversations.totalReallyHeated;
+    await fs.readFile("/public/Corpus.json", "utf8").then((data) => {
+      const conversations = JSON.parse(data);
+      utterances = conversations.utterances;
+      converations = conversations.conversations;
+      correctPredictions = conversations.correctPredictions;
+      correctPredictionsHeated = conversations["CorectPredctions-Heated"];
+      correctPredictionsCivil = conversations["CorrectPrediction-Civil"];
+      totalPredictedHeated = conversations.totalPredictedHeated;
+      totalPredictedCivil = conversations.totalPredictedCivil;
+      totalReallyCivil = conversations.totalReallyCivil;
+      totalReallyHeated = conversations.totalReallyHeated;
 
-        // console.log(output);
-      });
+      // console.log(output);
+    });
 
     return {
       utterances: utterances,
